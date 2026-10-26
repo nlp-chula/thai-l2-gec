@@ -1,0 +1,5911 @@
+[
+  {
+    "items": [
+      {
+        "_block": 0,
+        "_item": 0,
+        "itemID": 1,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "ออกกำลังกายบ่อยๆทำให้สุขภาพดี",
+        "targets": [
+          {
+            "_itemAll": 0,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ออกกําลังกายบ่อย ๆ ทําให้สุขภาพดี"
+          },
+          {
+            "_itemAll": 1,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ออกกําลังกายบ่อย ๆ ทําให้สุขภาพดี"
+          },
+          {
+            "_itemAll": 2,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "การออกกำลังกายบ่อยๆ ช่วยให้มีสุขภาพดี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 1,
+        "itemID": 2,
+        "itemType": "TGT",
+        "sourceID": "14",
+        "sourceText": "ความแตกต่างทางวัฒนธรรมสาเหตุ เหตุการณ์ 228 ที่เกิด จากวันที่ ๒๘ กุมภาพันธ์ ค.ศ. 1947 และสมัยความหวาด กลัวสีขาว (white terror) ซึ่งทำให้คนไต้หวันถูกฆ่าตาย",
+        "targets": [
+          {
+            "_itemAll": 3,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ความแตกต่างทางวัฒนธรรมเกิดจากเหตุการณ์ 228 ที่เกิดจากวันที่ ๒๘ กุมภาพันธ์ ค.ศ. 1947 และสมัยความหวาดกลัวสีขาว (white terror) ทําให้คนไต้หวันถูกฆ่าตาย"
+          },
+          {
+            "_itemAll": 4,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ความแตกต่างทางวัฒนธรรมเป็นสาเหตุของเหตุการณ์ 228 ที่เกิดขึ้นในวันที่ 28 กุมภาพันธ์ ค.ศ. 1947 และสมัยความหวาดกลัวสีขาว (white terror) ซึ่งทำให้คนไต้หวันถูกฆ่าตาย"
+          },
+          {
+            "_itemAll": 5,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ความแตกต่างทางวัฒนธรรม สาเหตุของเหตุการณ์ 228 ที่เกิดเมื่อวันที่ ๒๘ กุมภาพันธ์ ค.ศ. 1947 และสมัยความหวาดกลัวสีขาว (white terror) ซึ่งทําให้คนไต้หวันถูกฆ่าตาย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 2,
+        "itemID": 3,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "เดี่ยวนี้ผมขับรถได้",
+        "targets": [
+          {
+            "_itemAll": 6,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เดี๋ยวนี้ผมขับรถได้"
+          },
+          {
+            "_itemAll": 7,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เดี่ยวนี้ผมขับรถได้"
+          },
+          {
+            "_itemAll": 8,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ตอนนี้ผมขับรถได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 3,
+        "itemID": 4,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ราคาการเสียหายทั้งหมดในประเทศญี่ปุ่น คือ ประมาณ ๑๓๐,๐๐๐,๐๐๐,๐๐๐ บาท กว่าติดอันดับ ๒ ในโรก สมัยก่อน",
+        "targets": [
+          {
+            "_itemAll": 9,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ราคาการเสียหายทั้งหมดในประเทศญี่ปุ่น คือ ประมาณ ๑๓๐,๐๐๐,๐๐๐ บาท กว่าติดอันดับ ๒ ในโรก สมัยก่อน"
+          },
+          {
+            "_itemAll": 10,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "มูลค่าความเสียหายทั้งหมดในประเทศญี่ปุ่น สูงถึงประมาณ 130,000,000,000 บาท ติดอันดับ 2 ของโลกในสมัยก่อน"
+          },
+          {
+            "_itemAll": 11,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ราคาความเสียหายทั้งหมดในประเทศญี่ปุ่น คือ ประมาณ ๑๓๐,๐๐๐,๐๐๐ บาท กว่าติดอันดับ ๒ ในโรกสมัยก่อน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 4,
+        "itemID": 5,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ในวันนี้จะมีการลอยกระทงและประกวด กระทงและประกวดนางพมาศ ในคืนลอย",
+        "targets": [
+          {
+            "_itemAll": 12,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ในวันนี้จะมีการลอยกระทง ประกวดกระทง และประกวดนางพมาศ ในคืนลอยกระทง"
+          },
+          {
+            "_itemAll": 13,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ในวันนี้จะมีการลอยกระทง ประกวดกระทง และประกวดนางนพมาศ ในคืนลอยกระทง"
+          },
+          {
+            "_itemAll": 14,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ในวันนี้จะมีการลอยกระทงและประกวดกระทงและประกวดนางพมาศ ในคืนลอย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 5,
+        "itemID": 6,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "อีกจารีตยังรอดอยู่ในสังคมจีนคือการประหยัด",
+        "targets": [
+          {
+            "_itemAll": 15,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อีกจารีตที่ยังอยู่รอดในสังคมจีนคือการประหยัด"
+          },
+          {
+            "_itemAll": 16,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "อีกจารีตประเพณีที่ยังคงอยู่่ในสังคมจีนคือการประหยัด"
+          },
+          {
+            "_itemAll": 17,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "อีกจารีตยังคงรอดอยู่ในสังคมจีนคือการประหยัด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 6,
+        "itemID": 7,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ผมใช้เวลา 10ปี(เพื่อ)ชำระหนี้",
+        "targets": [
+          {
+            "_itemAll": 18,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมใช้เวลา 10 ปีในการชําระหนี้"
+          },
+          {
+            "_itemAll": 19,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผมใช้เวลา 10 ปีในการชำระหนี้"
+          },
+          {
+            "_itemAll": 20,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ผมใช้เวลา 10 ปีเพื่อชําระหนี้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 7,
+        "itemID": 8,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "โครงสร้างพิ้นฐาน เช่น",
+        "targets": [
+          {
+            "_itemAll": 21,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "โครงสร้างพื้นฐาน เช่น"
+          },
+          {
+            "_itemAll": 22,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "โครงสร้างพื้นฐาน เช่น"
+          },
+          {
+            "_itemAll": 23,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "โครงสร้างพิ้นฐาน เช่น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 8,
+        "itemID": 9,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "การกินผักและผลไม้ดีต่อสุขภาพ",
+        "targets": [
+          {
+            "_itemAll": 24,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "การกินผักและผลไม้ดีต่อสุขภาพ"
+          },
+          {
+            "_itemAll": 25,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "การกินผักและผลไม้เป็นประจำดีต่อสุขภาพ"
+          },
+          {
+            "_itemAll": 26,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "การกินผักและผลไม้ดีต่อสุขภาพ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 9,
+        "itemID": 10,
+        "itemType": "TGT",
+        "sourceID": "17",
+        "sourceText": "กุญแจลูกนี้เป็นเครื่องมือที่คนอื่นขโมยไม่ได้",
+        "targets": [
+          {
+            "_itemAll": 27,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "กุญแจดอกนี้เป็นเครื่องมือที่คนอื่นขโมยไม่ได้"
+          },
+          {
+            "_itemAll": 28,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "กุญแจดอกนี้เป็นเครื่องมือที่คนอื่นขโมยไม่ได้"
+          },
+          {
+            "_itemAll": 29,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "กุญแจลูกนี้เป็นเครื่องมือที่ยากต่อการถูกขโมย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 10,
+        "itemID": 11,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ฉันชอบเครื่องสำอางยี่ห้อของญี่ปุ่น",
+        "targets": [
+          {
+            "_itemAll": 30,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ฉันชอบเครื่องสําอางยี่ห้อญี่ปุ่น"
+          },
+          {
+            "_itemAll": 31,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ฉันชอบเครื่องสำอางยี่ห้อญี่ปุ่น"
+          },
+          {
+            "_itemAll": 32,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันชอบเครื่องสําอางยี่ห้อของญี่ปุ่น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 11,
+        "itemID": 12,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ตัวอย่างเช่น ความสัมพันธ์หัวหน้ากับลูกน้องในบริษัท ผมเคยได้ยินว่า ในสังคมของไทย ความสัมพันธ์แบบนี้ไม่ค่อยเข้มงวด",
+        "targets": [
+          {
+            "_itemAll": 33,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ตัวอย่างเช่น ความสัมพันธ์ระหว่างหัวหน้ากับลูกน้องในบริษัท ผมเคยได้ยินว่าในสังคมไทย ความสัมพันธ์แบบนี้ไม่ค่อยเข้มงวดเท่าในสังคมญี่ปุ่น"
+          },
+          {
+            "_itemAll": 34,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ตัวอย่างเช่น ความสัมพันธ์หัวหน้ากับลูกน้องในบริษัท ผมเคยได้ยินว่า ในสังคมของไทย ความสัมพันธ์แบบนี้ไม่ค่อยเข้มงวด"
+          },
+          {
+            "_itemAll": 35,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ตัวอย่างเช่น ความสัมพันธ์หัวหน้ากับลูกน้องในบริษัท ผมเคยได้ยินว่า ในสังคมของไทย ความสัมพันธ์แบบนี้ไม่ค่อยเข้มงวด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 12,
+        "itemID": 13,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ธงไทยมีสามสีได้แก่สีแดงสีขาวสีน้ำเงิน",
+        "targets": [
+          {
+            "_itemAll": 36,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ธงไทยมีสามสี ได้แก่ สีแดง สีขาว และสีน้ําเงิน"
+          },
+          {
+            "_itemAll": 37,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ธงชาติไทยมีสามสี คือ สีแดง สีขาว และสีน้ำเงิน"
+          },
+          {
+            "_itemAll": 38,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ธงไทยมีสามสี ได้แก่ สีแดง สีขาว และสีน้ําเงิน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 13,
+        "itemID": 14,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "พรุ่งนี้ฉันจะแข่งยูโดกับคนเกาหลี",
+        "targets": [
+          {
+            "_itemAll": 39,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "พรุ่งนี้ฉันจะแข่งยูโดกับคนเกาหลี"
+          },
+          {
+            "_itemAll": 40,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "พรุ่งนี้ฉันจะแข่งยูโดกับคนเกาหลี"
+          },
+          {
+            "_itemAll": 41,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "พรุ่งนี้ฉันจะแข่งกับคนเกาหลี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 14,
+        "itemID": 15,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "บนรถไฟฟ้ามีชาวต่างชาติเต็มไปหมด ใกล้จะปีใหม่แล้ว",
+        "targets": [
+          {
+            "_itemAll": 42,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "บนรถไฟฟ้ามีชาวต่างชาติเต็มไปหมด ใกล้จะปีใหม่แล้ว"
+          },
+          {
+            "_itemAll": 43,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "บนรถไฟฟ้ามีชาวต่างชาติมากขึ้น ใกล้จะปีใหม่แล้ว"
+          },
+          {
+            "_itemAll": 44,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "บนรถไฟฟ้ามีชาวต่างชาติเต็มไปหมด ใกล้จะปีใหม่แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 15,
+        "itemID": 16,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "คุณสมบัติที่หนึ่ง ไม่คดโกง",
+        "targets": [
+          {
+            "_itemAll": 45,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "คุณสมบัติที่หนึ่งคือ ไม่คดโกง"
+          },
+          {
+            "_itemAll": 46,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "คุณสมบัติที่หนึ่ง ไม่คดโกง"
+          },
+          {
+            "_itemAll": 47,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "คุณสมบัติที่หนึ่งคือ ไม่คดโกง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 16,
+        "itemID": 17,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "การเมืองไต้วัน ประเทศไต้หวัน",
+        "targets": [
+          {
+            "_itemAll": 48,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "การเมืองในไต้หวัน"
+          },
+          {
+            "_itemAll": 49,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "การเมืองไต้หวัน ประเทศไต้หวัน"
+          },
+          {
+            "_itemAll": 50,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "การเมืองของไต้หวัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 17,
+        "itemID": 18,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "เขาดื่มเหล้าเยอะเกินไป",
+        "targets": [
+          {
+            "_itemAll": 51,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เขาดื่มเหล้ามากเกินไป"
+          },
+          {
+            "_itemAll": 52,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เขาดื่มเหล้าเยอะเกินไป"
+          },
+          {
+            "_itemAll": 53,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เขาดื่มเหล้าเยอะเกินไป"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 18,
+        "itemID": 19,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "หลังจากนั้นเราก็เป็นประชาติปไตย ในทุกวันนี้",
+        "targets": [
+          {
+            "_itemAll": 54,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "หลังจากนั้นเราก็เป็นประชาติปไตยในทุกวันนี้"
+          },
+          {
+            "_itemAll": 55,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "หลังจากนั้นเราก็เป็นประชาธิปไตย ในทุกวันนี้"
+          },
+          {
+            "_itemAll": 56,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "หลังจากนั้นเราก็เป็นประชาธิปไตยมาจนถึงปัจจุบัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 19,
+        "itemID": 20,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "เพลงชาติของประเทศญี่ปุ่น \" KIMIGAYO \" KIMIGAYOWA CHIYONIYACHIYONI SAZAREISHINO IWAOTONARITE KOKENOHUSUMADE",
+        "targets": [
+          {
+            "_itemAll": 57,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่น \" KIMIGAYO\" KIMIGAYOWA CHIYONIYACHIYONI SAZAREISHINO IWAOTONARITE KOMENOHUSUMADE"
+          },
+          {
+            "_itemAll": 58,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่น \"คิมิไกโย\" : คิมิไกโยะ ชิโยะนิยะ ชิโยะนิยะ ซะซะเระอิชิโนะ อิวาโอะโทะนะริเตะ โคะเคะโนะโคะะฟุซุมะเดะ"
+          },
+          {
+            "_itemAll": 59,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่น \"KIMIGAYO\" KIMIGAYOWA CHIYONIYA CHIYONI SAZAREISHINO IWAOTONARITE KOKEOHUSUMADE"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 20,
+        "itemID": 21,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "โอเค ใจเย็นๆ",
+        "targets": [
+          {
+            "_itemAll": 60,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "โอเค ใจเย็น ๆ"
+          },
+          {
+            "_itemAll": 61,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "โอเค ใจเย็น ๆ"
+          },
+          {
+            "_itemAll": 62,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "โอเค ใจเย็น ๆ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 21,
+        "itemID": 22,
+        "itemType": "TGT",
+        "sourceID": "12",
+        "sourceText": "คนเจียซานนึกถึงตอนไปอุทยานแห่งชาติเขาใหญ่ อยากเจอช้าง \" แต่หาไม่เจอ \"",
+        "targets": [
+          {
+            "_itemAll": 63,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "คนเจียซานนึกถึงตอนไปอุทยานแห่งชาติเขาใหญ่ อยากเจอช้าง แต่หาไม่เจอ"
+          },
+          {
+            "_itemAll": 64,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "คนเจียซานนึกถึงตอนไปอุทยานแห่งชาติเขาใหญ่ อยากเจอช้าง แต่หาไม่เจอ"
+          },
+          {
+            "_itemAll": 65,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "คนเจียซานนึกถึงตอนไปอุทยานแห่งชาติเขาใหญ่ อยากเจอช้าง แต่หาไม่เจอ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 22,
+        "itemID": 23,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "นี่ไม่ใช่เพียงแต่เทศกาลธรรมดาค่ะ จังหวัดซากะมีที่ราบใหญ่และนาข้าวก็เลยไม่ค่อยมี",
+        "targets": [
+          {
+            "_itemAll": 66,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "นี่ไม่ใช่แค่เทศกาลธรรมดาค่ะ จังหวัดซากะมีที่ราบใหญ่และนาข้าวก็เลยไม่ค่อยมี"
+          },
+          {
+            "_itemAll": 67,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "นี่ไม่ใช่แค่เทศกาลธรรมดาค่ะ จังหวัดซากะมีที่ราบใหญ่และนาข้าวก็เลยไม่ค่อยมี"
+          },
+          {
+            "_itemAll": 68,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "นี่ไม่ใช่เพียงแค่เทศกาลธรรมดาค่ะ จังหวัดซากะมีที่ราบใหญ่ นาข้าวจึงมีน้อย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 23,
+        "itemID": 24,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "อย่างไรก็ตามการเรียนภาาาใหม่ ไม่ใช่แค่เพียงการสื่อสารแต่เหมือนกุญแจที่จะเปิดประตูของแต่ละประเทศ",
+        "targets": [
+          {
+            "_itemAll": 69,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "อย่างไรก็ตาม การเรียนภาษาใหม่ ไม่ได้เป็นเพียงแค่การสื่อสาร แต่เหมือนกุญแจที่จะเปิดประตูสู่แต่ละประเทศ"
+          },
+          {
+            "_itemAll": 70,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อย่างไรก็ตาม การเรียนภาษาไทยใหม่ ไม่ใช่แค่การสื่อสาร แต่เหมือนกุญแจที่จะเปิดประตูของแต่ละประเทศ"
+          },
+          {
+            "_itemAll": 71,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "อย่างไรก็ตาม การเรียนภาษาใหม่ ไม่ใช่แค่เพียงการสื่อสาร แต่เหมือนกุญแจที่จะเปิดประตูของแต่ละประเทศ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 24,
+        "itemID": 25,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "วันนี้เขาตื่นตอน6โมงเช้า",
+        "targets": [
+          {
+            "_itemAll": 72,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้เขาตื่นตอน 6 โมงเช้า"
+          },
+          {
+            "_itemAll": 73,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้เขาตื่นตอน 6 โมงเช้า"
+          },
+          {
+            "_itemAll": 74,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "วันนี้เขาตื่นตอน 6 โมงเช้า"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 25,
+        "itemID": 26,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "เวลาถูกยุงกัดจะ ทาที่จุดคัน",
+        "targets": [
+          {
+            "_itemAll": 75,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เวลาถูกยุงกัดจะทาที่จุดคัน"
+          },
+          {
+            "_itemAll": 76,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เวลาถูกยุงกัดจะทาที่จุดคัน"
+          },
+          {
+            "_itemAll": 77,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เวลาถูกยุงกัด ให้ทาที่จุดคัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 26,
+        "itemID": 27,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "วันนี้ห้องเรียนร้อนนะเหรอ ฉันว่าหนาวออก",
+        "targets": [
+          {
+            "_itemAll": 78,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้ห้องเรียนร้อนนะเหรอ ฉันว่าหนาวออก"
+          },
+          {
+            "_itemAll": 79,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วันนี้ห้องเรียนร้อนนะเหรอ? ฉันว่าหนาวออก"
+          },
+          {
+            "_itemAll": 80,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้ห้องเรียนร้อนนะเหรอ ฉันว่าหนาวออก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 27,
+        "itemID": 28,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "พริกสดและพริกแห้งใช้ทำอาหารได้ไม่จำเป็นใส่ในน้ำม้ันและน้ำส้มสายชูเพื่อทำให้เผ็ด ส้มตำ กุ้ง น้ำตกหมู เป็นต้น",
+        "targets": [
+          {
+            "_itemAll": 81,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "พริกสดและพริกแห้งใช้ทําอาหารได้ไม่จําเป็นใส่ในน้ําม้ันและน้ําส้มสายชูเพื่อทําให้เผ็ด ส้มตํา กุ้ง น้ําตกหมู"
+          },
+          {
+            "_itemAll": 82,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "พริกสดและพริกแห้งใช้ทําอาหารได้ ไม่จําเป็นใส่ในน้ํามันและน้ําส้มสายชูเพื่อทําให้เผ็ดในส้มตํา กุ้ง น้ําตกหมู เป็นต้น"
+          },
+          {
+            "_itemAll": 83,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "พริกสดและพริกแห้งใช้ทำอาหารได้ ไม่จำเป็นต้องใส่ในน้ำมันและน้ำส้มสายชูเพื่อเพิ่มความเผ็ด ตัวอย่างอาหารที่ใช้พริก เช่น ส้มตำ กุ้งน้ำตก และหมูน้ำตก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 28,
+        "itemID": 29,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ปกติผมจะตอบว่าผมตกหลุมรักประเทศไทยตั้งแต่มาเที่ยวครั้งแรกประมาณ ๑๗ ปีที่แล้ว",
+        "targets": [
+          {
+            "_itemAll": 84,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ปกติผมจะตอบว่าผมตกหลุมรักประเทศไทยตั้งแต่มาเที่ยวครั้งแรก ประมาณ 17 ปีที่แล้ว"
+          },
+          {
+            "_itemAll": 85,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ปกติผมจะตอบว่า ผมตกหลุมรักประเทศไทยตั้งแต่มาเที่ยวครั้งแรกเมื่อประมาณ ๑๗ ปีที่แล้ว"
+          },
+          {
+            "_itemAll": 86,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ปกติผมจะตอบว่า ผมตกหลุมรักประเทศไทยตั้งแต่มาเที่ยวครั้งแรกเมื่อประมาณ ๑๗ ปีที่แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 29,
+        "itemID": 30,
+        "itemType": "TGT",
+        "sourceID": "19",
+        "sourceText": "มีสุภาษิต \"คัปปะจมน้ำ\"",
+        "targets": [
+          {
+            "_itemAll": 87,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "มีสุภาษิต \"คัปปะจมน้ํา\""
+          },
+          {
+            "_itemAll": 88,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "มีสุภาษิต \"คัปปะจมน้ํา\""
+          },
+          {
+            "_itemAll": 89,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "มีสุภาษิตว่า \"คัปปะจมน้ำ\""
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 30,
+        "itemID": 31,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "พริกมีสารอาหารตัวอย่าง เช่น วิตามินเอ และวิตามินซี ช่วยรักษาหวัด และร่างกายเหนื่อย",
+        "targets": [
+          {
+            "_itemAll": 90,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "พริกมีสารอาหาร เช่น วิตามินเอและวิตามินซี ช่วยรักษาหวัดและบำรุงร่างกาย"
+          },
+          {
+            "_itemAll": 91,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "พริกมีสารอาหารตัวอย่าง เช่น วิตามินเอ และวิตามินซี ช่วยรักษาหวัดและร่างกายเหนื่อย"
+          },
+          {
+            "_itemAll": 92,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "พริกมีสารอาหารตัวอย่าง เช่น วิตามินเอ และวิตามินซี ช่วยรักษาหวัดและร่างกายเหนื่อย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 31,
+        "itemID": 32,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "ผู้เลี้ยงสัตว์ทุกคนนำสัตว์เลี้ยงไปฉีดวัคซีนป้องกันโรคพิษสุนัขบ้า",
+        "targets": [
+          {
+            "_itemAll": 93,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผู้เลี้ยงสัตว์ทุกคนนําสัตว์เลี้ยงไปฉีดวัคซีนป้องกันโรคพิษสุนัขบ้า"
+          },
+          {
+            "_itemAll": 94,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผู้เลี้ยงสัตว์ทุกคนควรนำสัตว์เลี้ยงไปฉีดวัคซีนป้องกันโรคพิษสุนัขบ้า"
+          },
+          {
+            "_itemAll": 95,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ผู้เลี้ยงสัตว์ทุกคนควรพาสัตว์เลี้ยงไปฉีดวัคซีนป้องกันโรคพิษสุนัขบ้า"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 32,
+        "itemID": 33,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "ฉันเล่นวอลเล่ย์บอลเป็น",
+        "targets": [
+          {
+            "_itemAll": 96,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันเล่นวอลเลย์บอลเก่ง"
+          },
+          {
+            "_itemAll": 97,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันเล่นวอลเลย์บอลเป็น"
+          },
+          {
+            "_itemAll": 98,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันเล่นวอลเล่ย์บอลเป็น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 33,
+        "itemID": 34,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "สีขาวหมายถึง ความบริสุทธิ์ และยุติธรรม",
+        "targets": [
+          {
+            "_itemAll": 99,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "สีขาว หมายถึง ความบริสุทธิ์และยุติธรรม"
+          },
+          {
+            "_itemAll": 100,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "สีขาว หมายถึง ความบริสุทธิ์และยุติธรรม"
+          },
+          {
+            "_itemAll": 101,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "สีขาวหมายถึงความบริสุทธิ์และยุติธรรม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 34,
+        "itemID": 35,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ซึ้นเป็นสัญญลักษณ์ของฤดูใบไม้ผลิ",
+        "targets": [
+          {
+            "_itemAll": 102,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "นั่นคือสัญลักษณ์ของฤดูใบไม้ผลิ"
+          },
+          {
+            "_itemAll": 103,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ซึ้งเป็นสัญลักษณ์ของฤดูใบไม้ผลิ"
+          },
+          {
+            "_itemAll": 104,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ซากุระเป็นสัญลักษณ์ของฤดูใบไม้ผลิ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 35,
+        "itemID": 36,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "เขานอกจากจะพูดภาษาไทยได้แล้ว",
+        "targets": [
+          {
+            "_itemAll": 105,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เขานอกจากจะพูดภาษาไทยได้แล้ว"
+          },
+          {
+            "_itemAll": 106,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เขานอกจากจะพูดภาษาไทยได้แล้ว ยังพูดภาษาอื่น ๆ ได้อีก"
+          },
+          {
+            "_itemAll": 107,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เขายังพูดภาษาไทยได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 36,
+        "itemID": 37,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "หนังเรื่องนี้ สนุกก็ไม่สนุก น่าดูก็ไม่น่าดู",
+        "targets": [
+          {
+            "_itemAll": 108,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "หนังเรื่องนี้สนุกก็ไม่สนุก น่าดูก็ไม่น่าดู"
+          },
+          {
+            "_itemAll": 109,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "หนังเรื่องนี้สนุกก็ไม่สนุก น่าดูก็ไม่น่าดู"
+          },
+          {
+            "_itemAll": 110,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "หนังเรื่องนี้ ไม่สนุก ไม่น่าดู"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 37,
+        "itemID": 38,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ส่วนทำนองเพลงนั้น ได้ประพันธ์ขึ้นใหม่ในยุคเมจิ โดยทำนองแรกสุดนั้นประพนธ์โดยนักดนตรีชาวไอริชเมื่อ ค.ศ. 1869",
+        "targets": [
+          {
+            "_itemAll": 111,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ส่วนทํานองเพลงนั้น ได้ประพันธ์ขึ้นใหม่ในยุคเมจิ โดยทํานองแรกสุดนั้นประพนธ์โดยนักดนตรีชาวไอริชเมื่อ ค.ศ. 1869"
+          },
+          {
+            "_itemAll": 112,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ส่วนทำนองเพลงนั้น ได้รับการประพันธ์ขึ้นใหม่ในยุคเมจิ โดยทำนองแรกสุดประพันธ์โดยนักดนตรีชาวไอริชในปี ค.ศ. 1869"
+          },
+          {
+            "_itemAll": 113,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ส่วนทํานองเพลงนั้น ได้ประพันธ์ขึ้นใหม่ในยุคเมจิ โดยทํานองแรกสุดนั้นประพนธ์โดยนักดนตรีชาวไอริชเมื่อ ค.ศ. 1869"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 38,
+        "itemID": 39,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "อากาสเราใช้หายใจคือความจำเป็นเราแชร์กันที่เราทุกคนเกี่ยวข้องอย่างใกล้ชิด",
+        "targets": [
+          {
+            "_itemAll": 114,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อากาศที่เราใช้หายใจเป็นสิ่งจําเป็นที่เราต้องแชร์กันและเราทุกคนต้องเกี่ยวข้องกันอย่างใกล้ชิด"
+          },
+          {
+            "_itemAll": 115,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อากาสเราใช้หายใจคือความจําเป็น เราแชร์กันที่เราทุกคนเกี่ยวข้องกันอย่างใกล้ชิด"
+          },
+          {
+            "_itemAll": 116,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "อากาศที่เราใช้หายใจเป็นสิ่งจำเป็นที่เราทุกคนแชร์กัน และเกี่ยวข้องกันอย่างใกล้ชิด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 39,
+        "itemID": 40,
+        "itemType": "TGT",
+        "sourceID": "49",
+        "sourceText": "เรามีความสุขเพราะทุกคนไล่ล่าเรื่องที่เขาชอบ",
+        "targets": [
+          {
+            "_itemAll": 117,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เรามีความสุขเพราะทุกคนได้ทำสิ่งที่ชอบ"
+          },
+          {
+            "_itemAll": 118,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เรามีความสุขเพราะทุกคนไล่ล่าเรื่องที่เขาชอบ"
+          },
+          {
+            "_itemAll": 119,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เรามีความสุขเพราะทุกคนไล่ล่าเรื่องที่เขาชอบ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 40,
+        "itemID": 41,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "เครียดเป็นสิ่งเสพติด",
+        "targets": [
+          {
+            "_itemAll": 120,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เครียดเป็นสิ่งเสพติด"
+          },
+          {
+            "_itemAll": 121,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เครียดเป็นสิ่งเสพติด"
+          },
+          {
+            "_itemAll": 122,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ความเครียดเป็นสิ่งเสพติด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 41,
+        "itemID": 42,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ฉันชอบ ดูหนังไปด้วย กินขนมไปด้วย ปกติ ฉัน เดินไป ด้วย ฟัง เพลง ไป ด้วย",
+        "targets": [
+          {
+            "_itemAll": 123,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันชอบดูหนังไปพร้อมกับกินขนม ปกติฉันชอบเดินไปฟังเพลงไปด้วย"
+          },
+          {
+            "_itemAll": 124,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันชอบดูหนังไปด้วยกินขนมไปด้วย ปกติฉันเดินไปด้วย ฟังเพลงไปด้วย"
+          },
+          {
+            "_itemAll": 125,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ปกติฉันชอบดูหนังไปด้วย กินขนมไปด้วย ปกติฉันเดินไปด้วย ฟังเพลงไปด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 42,
+        "itemID": 43,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "คนที่แต่งเนื้อร้องคือ ซุนยัดเซ็นซึ่งเป็นผู้ก่อตั้งไต้หวัน",
+        "targets": [
+          {
+            "_itemAll": 126,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "คนที่แต่งเนื้อร้องคือ ซุนยัดเซ็น ซึ่งเป็นผู้ก่อตั้งไต้หวัน"
+          },
+          {
+            "_itemAll": 127,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "คนที่แต่งเนื้อร้องคือ ซุนยัดเซ็น ซึ่งเป็นผู้ก่อตั้งไต้หวัน"
+          },
+          {
+            "_itemAll": 128,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผู้แต่งเนื้อร้องคือ ซุนยัดเซ็น อดีตผู้ก่อตั้งไต้หวัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 43,
+        "itemID": 44,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ญี่ปุ่นได้เริ่มมานานแล้ว",
+        "targets": [
+          {
+            "_itemAll": 129,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ญี่ปุ่นเริ่มทำมานานแล้ว"
+          },
+          {
+            "_itemAll": 130,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ญี่ปุ่นได้เริ่มมานานแล้ว"
+          },
+          {
+            "_itemAll": 131,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ญี่ปุ่นได้เริ่มมานานแล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 44,
+        "itemID": 45,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เพื่อนผมแนะนำว่าร้านอาหารนี้ดีมาก",
+        "targets": [
+          {
+            "_itemAll": 132,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เพื่อนผมแนะนําว่าร้านอาหารนี้ดีมาก"
+          },
+          {
+            "_itemAll": 133,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เพื่อนผมแนะนําให้ไปร้านอาหารนี้ดีมาก"
+          },
+          {
+            "_itemAll": 134,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เพื่อนผมบอกว่าร้านอาหารนี้ดีมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 45,
+        "itemID": 46,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "หนังเรื่องนี้สนุกมากและน่าดูมาก",
+        "targets": [
+          {
+            "_itemAll": 135,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "หนังเรื่องนี้สนุกและน่าดูมาก"
+          },
+          {
+            "_itemAll": 136,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "หนังเรื่องนี้สนุกมากและน่าดูมาก"
+          },
+          {
+            "_itemAll": 137,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "หนังเรื่องนี้สนุกมากและน่าดูมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 46,
+        "itemID": 47,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "นอกจากเขาจะสวยแล้วเขายังนิสัยดีอีกด้วย",
+        "targets": [
+          {
+            "_itemAll": 138,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เขาไม่เพียงแต่สวย แต่ยังนิสัยดีอีกด้วย"
+          },
+          {
+            "_itemAll": 139,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "นอกจากเขาจะสวยแล้ว เขายังนิสัยดีอีกด้วย"
+          },
+          {
+            "_itemAll": 140,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "นอกจากเขาจะสวยแล้ว เขายังนิสัยดีอีกด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 47,
+        "itemID": 48,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ถ้า ไม่ มี เงิน ก็จะ ไม่ มา โรงเรียน",
+        "targets": [
+          {
+            "_itemAll": 141,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ถ้าไม่มีเงิน ก็จะไม่มาโรงเรียน"
+          },
+          {
+            "_itemAll": 142,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ถ้าไม่มีเงินก็จะไม่มาโรงเรียน"
+          },
+          {
+            "_itemAll": 143,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ถ้าไม่มีเงิน ก็จะไม่มาโรงเรียน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 48,
+        "itemID": 49,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "นักพฒนาซอฟต์แวร์รับเงินเดือนเท่าไหร่ครับ",
+        "targets": [
+          {
+            "_itemAll": 144,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "นักพัฒนาซอฟต์แวร์รับเงินเดือนเท่าไหร่ครับ"
+          },
+          {
+            "_itemAll": 145,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "นักพฒนาซอฟต์แวร์รับเงินเดือนเท่าไหร่ครับ"
+          },
+          {
+            "_itemAll": 146,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "นักพัฒนาซอฟต์แวร์รับเงินเดือนเท่าไหร่ครับ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 49,
+        "itemID": 50,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "หนังสือนี้สำหรับสุขภาพ",
+        "targets": [
+          {
+            "_itemAll": 147,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "หนังสือนี้สําหรับสุขภาพ"
+          },
+          {
+            "_itemAll": 148,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "หนังสือเล่มนี้เกี่ยวกับสุขภาพ"
+          },
+          {
+            "_itemAll": 149,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "หนังสือเล่มนี้เป็นของสุขภาพ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 50,
+        "itemID": 51,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "ฉันหาเจอคำตอบทั้งหมดในศาสนาพุทธ",
+        "targets": [
+          {
+            "_itemAll": 150,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันหาเจอคำตอบทั้งหมดในศาสนาพุทธ"
+          },
+          {
+            "_itemAll": 151,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันหาคําตอบทั้งหมดในศาสนาพุทธ"
+          },
+          {
+            "_itemAll": 152,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันหาคําตอบทั้งหมดในศาสนาพุทธ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 51,
+        "itemID": 52,
+        "itemType": "TGT",
+        "sourceID": "12",
+        "sourceText": "เรารับประทานขนุมได้หลายวิธี",
+        "targets": [
+          {
+            "_itemAll": 153,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เรารับประทานขนมได้หลายวิธี"
+          },
+          {
+            "_itemAll": 154,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เรารับประทานขนุนได้หลายวิธี"
+          },
+          {
+            "_itemAll": 155,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เรารับประทานขนุนได้หลายวิธี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 52,
+        "itemID": 53,
+        "itemType": "TGT",
+        "sourceID": "25",
+        "sourceText": "ถ้าอย่างนั้น เราจะเสียโอกาสที่จะทำให้ชีวิตมีความสุข",
+        "targets": [
+          {
+            "_itemAll": 156,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ถ้าอย่างนั้น เราจะเสียโอกาสที่จะทำให้ชีวิตมีความสุข"
+          },
+          {
+            "_itemAll": 157,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ถ้าอย่างนั้น เราจะเสียโอกาสที่จะทําให้ชีวิตมีความสุข"
+          },
+          {
+            "_itemAll": 158,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ถ้าอย่างนั้น เราจะเสียโอกาสที่จะมีชีวิตมีความสุข"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 53,
+        "itemID": 54,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "นักเรียนที่ทำการบ้านสอบผ่าน",
+        "targets": [
+          {
+            "_itemAll": 159,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "นักเรียนที่ทําการบ้านสอบผ่าน"
+          },
+          {
+            "_itemAll": 160,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "นักเรียนที่ทําการบ้านสอบผ่าน"
+          },
+          {
+            "_itemAll": 161,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "นักเรียนที่ทำการบ้านผ่าน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 54,
+        "itemID": 55,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ปัญหาเกี่ยวกับสังคมในประเทศญี่ปุ่นคือการฉ้อโกง \"โอเรโอเร\" \"โอเรโอเร\" คือคำศัพท์ภาษาญี่ปุ่นและคำแปลว่า \"ผม ผม\"",
+        "targets": [
+          {
+            "_itemAll": 162,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ปัญหาเกี่ยวกับสังคมในประเทศญี่ปุ่นคือการฉ้อโกง \"โอเรโอเร\" โอเรโอเร เป็นคำศัพท์ภาษาญี่ปุ่น แปลว่า \"ผม ผม\""
+          },
+          {
+            "_itemAll": 163,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ปัญหาเกี่ยวกับสังคมในประเทศญี่ปุ่นคือการฉ้อโกง \"โอเรโอเร\" \"โอเรโอเร\" คือ คําศัพท์ภาษาญี่ปุ่นและคําแปลว่า \"ผม ผม\""
+          },
+          {
+            "_itemAll": 164,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ปัญหาเกี่ยวกับสังคมในประเทศญี่ปุ่นคือการฉ้อโกง \"โอเรโอเร\" \"โอเรโอเร\" คือคําศัพท์ภาษาญี่ปุ่นและคําแปลว่า \"ผม ผม\""
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 55,
+        "itemID": 56,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "เขาคงจะไม่มาวันนี้ เห็นบอกว่าไม่สบาย",
+        "targets": [
+          {
+            "_itemAll": 165,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขาคงจะไม่มาวันนี้ เห็นบอกว่าไม่สบาย"
+          },
+          {
+            "_itemAll": 166,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เขาคงจะไม่มาวันนี้ เพราะเห็นบอกว่าไม่สบาย"
+          },
+          {
+            "_itemAll": 167,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เขาคงจะไม่มาวันนี้ เห็นบอกว่าไม่สบาย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 56,
+        "itemID": 57,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "กลิ่นเหม็น แทบจะตายแล้ว",
+        "targets": [
+          {
+            "_itemAll": 168,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "กลิ่นเหม็นแทบตายแล้ว"
+          },
+          {
+            "_itemAll": 169,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "กลิ่นเหม็นมาก แทบจะทนไม่ไหว"
+          },
+          {
+            "_itemAll": 170,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "กลิ่นเหม็น แทบจะตายแล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 57,
+        "itemID": 58,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "สัมภาษณ์ผู้สัมภาษณ์=เพื่อนพี่ชาย WENG MIN YEN Mengkun 1",
+        "targets": [
+          {
+            "_itemAll": 171,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "สัมภาษณ์ผู้สัมภาษณ์=เพื่อนพี่ชาย WENG MINYEN Mengkun 1"
+          },
+          {
+            "_itemAll": 172,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "สัมภาษณ์โดย WENG MIN YEN Mengkun 1 เพื่อนพี่ชาย"
+          },
+          {
+            "_itemAll": 173,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "สัมภาษณ์ผู้สัมภาษณ์=เพื่อนพี่ชาย WING MIN YEN Mengkun 1"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 58,
+        "itemID": 59,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "แม้ว่าเทศกาลนี้จัดแค่กิจการ เกี่ยวกับเรื่องเกษตรกรรม แต่คนที่สนใจเทศกาลไทยจะได้เที่ยวสนุกด้วย",
+        "targets": [
+          {
+            "_itemAll": 174,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "แม้ว่าเทศกาลนี้จะจัดขึ้นเพื่อส่งเสริมเรื่องเกษตรกรรม แต่ผู้ที่สนใจเทศกาลไทยก็จะได้เที่ยวสนุกด้วย"
+          },
+          {
+            "_itemAll": 175,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "แม้ว่าเทศกาลนี้จะจัดเฉพาะกิจเกษตรกรรม แต่คนที่สนใจเทศกาลไทยจะได้เที่ยวสนุกด้วย"
+          },
+          {
+            "_itemAll": 176,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "แม้ว่าเทศกาลนี้จะจัดแค่กิจการเกี่ยวกับเกษตรกรรม แต่คนที่สนใจเทศกาลไทยจะได้เที่ยวสนุกด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 59,
+        "itemID": 60,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "เวลาราคาลดลงปุ๊บ เราก็ไปชอปปิง",
+        "targets": [
+          {
+            "_itemAll": 177,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เวลาราคาลดลงปุ๊บ เราก็ไปชอปปิง"
+          },
+          {
+            "_itemAll": 178,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เวลาราคาลด เราก็ไปชอปปิง"
+          },
+          {
+            "_itemAll": 179,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เวลาราคาลดลงปุ๊บ เราก็ไปชอปปิง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 60,
+        "itemID": 61,
+        "itemType": "TGT",
+        "sourceID": "15",
+        "sourceText": "ไม่ว่าจะเป็นคนไทยหรือ ต่างชาติพวกเราก็จะสามารถเข้าใจวัฒนธรรมของไทยได้",
+        "targets": [
+          {
+            "_itemAll": 180,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ไม่ว่าจะเป็นคนไทยหรือต่างชาติ พวกเราก็จะสามารถเข้าใจวัฒนธรรมของไทยได้"
+          },
+          {
+            "_itemAll": 181,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ไม่ว่าจะเป็นคนไทยหรือต่างชาติ พวกเราก็สามารถเข้าใจวัฒนธรรมไทยได้"
+          },
+          {
+            "_itemAll": 182,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ไม่ว่าจะเป็นคนไทยหรือชาวต่างชาติ พวกเราก็สามารถเข้าใจวัฒนธรรมไทยได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 61,
+        "itemID": 62,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "พอแล้ว ตั้งใจฝังแหล่",
+        "targets": [
+          {
+            "_itemAll": 183,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "พอแล้ว ตั้งใจฝังหลี"
+          },
+          {
+            "_itemAll": 184,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "พอแล้ว ตั้งใจฝึกฝน"
+          },
+          {
+            "_itemAll": 185,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "พอแล้ว ตั้งใจฝังแหล่"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 62,
+        "itemID": 63,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ฉัน ไม่ ชอบ รถติด เบือมาก ก็เลย พัง ภาษาไท เวลา ขับ รถ",
+        "targets": [
+          {
+            "_itemAll": 186,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันไม่ชอบรถติด รู้สึกเบื่อมาก เลยพูดภาษาไทยไม่ชัดเวลาขับรถ"
+          },
+          {
+            "_itemAll": 187,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันไม่ชอบรถติดมาก ก็เลยพังภาษาไทยเวลาขับรถ"
+          },
+          {
+            "_itemAll": 188,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันไม่ชอบรถติดมากก็เลยพัง ภาษาไท เวลาขับรถ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 63,
+        "itemID": 64,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ฉันทำอาหารได้",
+        "targets": [
+          {
+            "_itemAll": 189,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ฉันทําอาหารได้"
+          },
+          {
+            "_itemAll": 190,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ฉันทำอาหารได้"
+          },
+          {
+            "_itemAll": 191,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันทําอาหารได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 64,
+        "itemID": 65,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "อาหารที่ร้านอาหานของพี่อัจฉราค่อนข้างอร่อย",
+        "targets": [
+          {
+            "_itemAll": 192,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อาหารที่ร้านอาหานของพี่อัจฉราค่อนข้างอร่อย"
+          },
+          {
+            "_itemAll": 193,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อาหารที่ร้านอาหานของพี่อัจฉราค่อนข้างอร่อย"
+          },
+          {
+            "_itemAll": 194,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "อาหารที่ร้านอาหารของพี่อัจฉราอร่อยมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 65,
+        "itemID": 66,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ผมรู้สึกประหม่า และอายที่จะคุยภาษาอังกฤษกับคนต่างชาติที่ใช้ภาษาอังกฤษเป็นภาษาแม่",
+        "targets": [
+          {
+            "_itemAll": 195,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผมรู้สึกประหม่าและอายที่จะคุยภาษาอังกฤษกับคนต่างชาติที่ใช้ภาษาอังกฤษเป็นภาษาแม่"
+          },
+          {
+            "_itemAll": 196,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผมรู้สึกประหม่าและอายที่จะคุยภาษาอังกฤษกับเจ้าของภาษา"
+          },
+          {
+            "_itemAll": 197,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ผมรู้สึกประหม่าและอายที่จะคุยภาษาอังกฤษกับคนต่างชาติที่ใช้ภาษาอังกฤษเป็นภาษาแม่"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 66,
+        "itemID": 67,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "อีกหนึ่งสัปดาห์เรียนไทยสี่เสร็จ",
+        "targets": [
+          {
+            "_itemAll": 198,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อีกหนึ่งสัปดาห์จะเรียนไทยจบ"
+          },
+          {
+            "_itemAll": 199,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อีกสัปดาห์เรียนไทยสี่เสร็จ"
+          },
+          {
+            "_itemAll": 200,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "อีกหนึ่งสัปดาห์ ผมจะเรียนภาษาไทยสี่ภาคจบ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 67,
+        "itemID": 68,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เขาว่ายน้ำเป็นตั้งแต่เด็ก",
+        "targets": [
+          {
+            "_itemAll": 201,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขาว่ายน้ําเป็นตั้งแต่เด็ก"
+          },
+          {
+            "_itemAll": 202,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เขาว่ายน้ําเป็นตั้งแต่เด็ก"
+          },
+          {
+            "_itemAll": 203,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เขาว่ายน้ำเป็นตั้งแต่เด็ก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 68,
+        "itemID": 69,
+        "itemType": "TGT",
+        "sourceID": "18",
+        "sourceText": "ถ้าผมถุกขโมย ผมคงจะเศร้ามากๆ",
+        "targets": [
+          {
+            "_itemAll": 204,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ถ้าผมถุกขโมย ผมคงจะเศร้ามาก"
+          },
+          {
+            "_itemAll": 205,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ถ้าผมถูกขโมย ผมคงจะเศร้ามาก"
+          },
+          {
+            "_itemAll": 206,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ถ้าผมถูกขโมย ผมคงจะเศร้ามาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 69,
+        "itemID": 70,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "หนังสือปุ๊บก็นอนหลับปั๊บ",
+        "targets": [
+          {
+            "_itemAll": 207,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "อ่านหนังสือแล้วหลับทันที"
+          },
+          {
+            "_itemAll": 208,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "หนังสือปุ๊บก็นอนหลับปั๊บ"
+          },
+          {
+            "_itemAll": 209,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "หนังสือปุ๊บก็นอนหลับปั๊บ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 70,
+        "itemID": 71,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ทุกคนอาจจะมีประสบการณ์เกี่ยวกับเรื่องนี้ ไม่ว่าจะเป็นคนหรือช่วงเวลา",
+        "targets": [
+          {
+            "_itemAll": 210,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ทุกคนอาจจะมีประสบการณ์เกี่ยวกับเรื่องนี้ ไม่ว่าจะเป็นคนหรือช่วงเวลา"
+          },
+          {
+            "_itemAll": 211,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ทุกคนอาจจะมีประสบการณ์เกี่ยวกับเรื่องนี้ ไม่ว่าจะเป็นคน หรือช่วงเวลา"
+          },
+          {
+            "_itemAll": 212,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ทุกคนอาจจะมีประสบการณ์เกี่ยวกับเรื่องนี้ ไม่ว่าจะเป็นคนหรือช่วงเวลา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 71,
+        "itemID": 72,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "เขาสอนภาษาจีนให้เด็กด้อยโอกาสเป็นอาสาสมัคร",
+        "targets": [
+          {
+            "_itemAll": 213,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขาสอนภาษาจีนให้เด็กด้อยโอกาสเป็นอาสาสมัคร"
+          },
+          {
+            "_itemAll": 214,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เขาสอนภาษาจีนให้เด็กด้อยโอกาสเป็นอาสาสมัคร"
+          },
+          {
+            "_itemAll": 215,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เขาอาสาสมัครสอนภาษาจีนให้เด็กด้อยโอกาส"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 72,
+        "itemID": 73,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "เมื่อก่อนเราได้ไปเยยียบดวนจันทร์ เดี๋ยวนี้เราอยากไปดาวอะงคาร",
+        "targets": [
+          {
+            "_itemAll": 216,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เมื่อก่อนเราได้ไปเยียบวนจันทร์ เดี๋ยวนี้เราอยากไปดาวอะงคาร"
+          },
+          {
+            "_itemAll": 217,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เมื่อก่อนเราได้ไปเยยียบดวนจันทร์ เดี๋ยวนี้เราอยากไปดาวอังคาร"
+          },
+          {
+            "_itemAll": 218,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เมื่อก่อนเราเคยไปเหยียบดวงจันทร์ เดี๋ยวนี้เราอยากไปดาวอังคาร"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 73,
+        "itemID": 74,
+        "itemType": "TGT",
+        "sourceID": "31",
+        "sourceText": "การนับถือศาสนา การปทำความสนิทสนมกับผู้อื่น เป็นต้น",
+        "targets": [
+          {
+            "_itemAll": 219,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "การนับถือศาสนา การปทําความสนิทสนมกับผู้อื่น"
+          },
+          {
+            "_itemAll": 220,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "การนับถือศาสนา การสร้างความสนิทสนมกับผู้อื่น เป็นต้น"
+          },
+          {
+            "_itemAll": 221,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "การนับถือศาสนา การปทําความสนิทสนมกับผู้อื่น เป็นต้น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 74,
+        "itemID": 75,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ทุกครั้งพายุแรงมากและฝนตกหนักมาก ก็เลยน้ำท่วมง่ายๆ",
+        "targets": [
+          {
+            "_itemAll": 222,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ทุกครั้งพายุจะรุนแรงและฝนตกหนักมาก ทําให้เกิดน้ําท่วมได้ง่าย"
+          },
+          {
+            "_itemAll": 223,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ทุกครั้งพายุแรงมากและฝนตกหนักมาก ก็เลยน้ําท่วมได้ง่าย ๆ"
+          },
+          {
+            "_itemAll": 224,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ทุกครั้งที่พายุแรงมากและฝนตกหนักมาก น้ำท่วมได้ง่าย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 75,
+        "itemID": 76,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "วันนี้เขาไม่มา",
+        "targets": [
+          {
+            "_itemAll": 225,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้เขาไม่มา"
+          },
+          {
+            "_itemAll": 226,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้เขาไม่มา"
+          },
+          {
+            "_itemAll": 227,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "วันนี้เขาไม่มา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 76,
+        "itemID": 77,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "สมัยนี้เยาวชนส่วงใหญ่นิยมเพลงเกาหลีมาก",
+        "targets": [
+          {
+            "_itemAll": 228,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "สมัยนี้เยาวชนส่วงใหญ่นิยมฟังเพลงเกาหลีมาก"
+          },
+          {
+            "_itemAll": 229,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "สมัยนี้เยาวชนส่วนใหญ่นิยมเพลงเกาหลีมาก"
+          },
+          {
+            "_itemAll": 230,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "สมัยนี้เยาวชนส่วนใหญ่นิยมเพลงเกาหลีมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 77,
+        "itemID": 78,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "อย่ากินขาวแบบนี้",
+        "targets": [
+          {
+            "_itemAll": 231,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "อย่ากินข้าวแบบนี้"
+          },
+          {
+            "_itemAll": 232,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อย่ากินขาวแบบนี้"
+          },
+          {
+            "_itemAll": 233,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "อย่ากินขาวแบบนี้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 78,
+        "itemID": 79,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "อาหารร้านนี้อร่อยก็ไม่อร่อย ถูกก็ไม่ถูก ก: พอคุณทำงานเสร็จแล้วคุณไปไหนต่อ ข:รีบกลับบ้าน",
+        "targets": [
+          {
+            "_itemAll": 234,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อาหารร้านนี้อร่อยก็ไม่อร่อย ถูกก็ไม่ถูก ก : พอคุณทํางานเสร็จแล้ว คุณไปไหนต่อ ข : รีบกลับบ้าน"
+          },
+          {
+            "_itemAll": 235,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "มื้อนี้อร่อยก็ไม่อร่อย ถูกก็ไม่ถูก ก : พอคุณทํางานเสร็จแล้วคุณไปไหนต่อ ข :รีบกลับบ้าน"
+          },
+          {
+            "_itemAll": 236,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "อาหารร้านนี้อร่อยไม่อร่อย ถูกไม่ถูก ก: พอคุณทำงานเสร็จแล้ว คุณไปไหนต่อ ข: รีบกลับบ้าน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 79,
+        "itemID": 80,
+        "itemType": "TGT",
+        "sourceID": "23",
+        "sourceText": "สิ่งที่สำคํญที่สุด คือ เราต้องพยายามทำสิ่งดี",
+        "targets": [
+          {
+            "_itemAll": 237,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "สิ่งที่สําคัญที่สุด คือ เราต้องพยายามทําสิ่งดี"
+          },
+          {
+            "_itemAll": 238,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "สิ่งที่สำคัญที่สุด คือ เราต้องพยายามทำสิ่งที่ดี"
+          },
+          {
+            "_itemAll": 239,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "สิ่งที่สําคํญที่สุด คือ เราต้องพยายามทําสิ่งดี ๆ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 80,
+        "itemID": 81,
+        "itemType": "TGT",
+        "sourceID": "12",
+        "sourceText": "ทั้งๆที่โรงไฟฟ้านิวเคลียร์อันตรายมากก็จริงแต่ผมรู้สึกว่าพวกเราจำเป็นต้องหันมองดูข้อดีของพลังงานนิวเคลียร์",
+        "targets": [
+          {
+            "_itemAll": 240,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ถึงแม้ว่าโรงไฟฟ้านิวเคลียร์จะอันตรายมาก แต่ผมรู้สึกว่าพวกเราจำเป็นต้องหันมองดูข้อดีของพลังงานนิวเคลียร์"
+          },
+          {
+            "_itemAll": 241,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ทั้งๆ ที่โรงไฟฟ้านิวเคลียร์อันตรายมากก็จริง แต่ผมรู้สึกว่าพวกเราจําเป็นต้องหันมามองดูข้อดีของพลังงานนิวเคลียร์ด้วย"
+          },
+          {
+            "_itemAll": 242,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ทั้งๆ ที่โรงไฟฟ้านิวเคลียร์อันตรายมากก็จริง แต่ผมรู้สึกว่าพวกเราจําเป็นต้องหันมองดูข้อดีของพลังงานนิวเคลียร์"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 81,
+        "itemID": 82,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ผมนับถืออาจารย์ทุกคนเพราะสอนภาษาไทยเก่ง",
+        "targets": [
+          {
+            "_itemAll": 243,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมนับถืออาจารย์ทุกคนเพราะสอนภาษาไทยเก่ง"
+          },
+          {
+            "_itemAll": 244,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผมนับถืออาจารย์ทุกคน เพราะสอนภาษาไทยเก่ง"
+          },
+          {
+            "_itemAll": 245,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมนับถืออาจารย์ทุกคน เพราะสอนภาษาไทยเก่ง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 82,
+        "itemID": 83,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ส่วนประเทศอิตาลีก็มีเทศกาลส้ม แต่สำรับมะเขือเทศ คิดว่าใช้ส้มอันตรายและเจ็บมากกว่า",
+        "targets": [
+          {
+            "_itemAll": 246,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ส่วนประเทศอิตาลีก็มีเทศกาลส้ม แต่สำหรับเทศกาลมะเขือเทศ คิดว่าใช้มะเขือเทศอันตรายและเจ็บมากกว่า"
+          },
+          {
+            "_itemAll": 247,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ส่วนประเทศอิตาลีก็มีเทศกาลส้ม แต่สํารับมะเขือเทศคิดว่าใช้ส้มอันตรายและเจ็บมากกว่า"
+          },
+          {
+            "_itemAll": 248,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ส่วนประเทศอิตาลีก็มีเทศกาลส้ม แต่สํารับมะเขือเทศ คิดว่าใช้ส้มอันตรายและเจ็บมากกว่า"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 83,
+        "itemID": 84,
+        "itemType": "TGT",
+        "sourceID": "17",
+        "sourceText": "นอกจากนี้ยังใช้ลูกพีช ผสมไสพาย หรือ ทำผลไม้กวน แช่อิ่ม และทำน้ำผลไม้ปั่นได้",
+        "targets": [
+          {
+            "_itemAll": 249,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "นอกจากนี้ยังใช้ลูกพีชผสมไสพาย หรือทําผลไม้กวน แช่อิ่ม และทําน้ําผลไม้ปั่นได้"
+          },
+          {
+            "_itemAll": 250,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "นอกจากนี้ ยังใช้ลูกพีช ผสมในไส้พาย ทำผลไม้กวน แช่อิ่ม และทำน้ำผลไม้ปั่นได้"
+          },
+          {
+            "_itemAll": 251,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "นอกจากนี้ยังใช้ลูกพีชผสมไสพาย หรือทําผลไม้กวน แช่อิ่ม และทําน้ําผลไม้ปั่นได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 84,
+        "itemID": 85,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ส่วนสีขาวคืออาทีที่แสดงความกินที่เกียรติและบริสุทธิ์",
+        "targets": [
+          {
+            "_itemAll": 252,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ส่วนสีขาวคืออาทีที่แสดงความกินที่เกียรติและบริสุทธิ์"
+          },
+          {
+            "_itemAll": 253,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ส่วนสีขาวคืออาภรณ์ที่แสดงถึงความเกียรติและบริสุทธิ์"
+          },
+          {
+            "_itemAll": 254,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ส่วนสีขาวคืออาทีที่แสดงความเคารพและบริสุทธิ์"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 85,
+        "itemID": 86,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ผู้หญิงมีแนวโน้มซื้อเครื่องประดับ ในบาร์ห้ามขายยาเสพติด โรคSARSระบาดเร็ว",
+        "targets": [
+          {
+            "_itemAll": 255,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ผู้หญิงมีแนวโน้มที่จะซื้อเครื่องประดับ ในบาร์ห้ามขายยาเสพติด โรค SARS ระบาดเร็ว"
+          },
+          {
+            "_itemAll": 256,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผู้หญิงมีแนวโน้มซื้อเครื่องประดับ ในบาร์ห้ามขายยาเสพติด โรคSARSระบาดเร็ว"
+          },
+          {
+            "_itemAll": 257,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ผู้หญิงมีแนวโน้มซื้อเครื่องประดับ ในบาร์ห้ามขายยาเสพติด โรคSARSระบาดเร็ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 86,
+        "itemID": 87,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "เขาถูกรถชนก็เลยต้องทำกายภาพบำบัดทุกวัน",
+        "targets": [
+          {
+            "_itemAll": 258,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เขาถูกรถชนก็เลยต้องทํากายภาพบําบัดทุกวัน"
+          },
+          {
+            "_itemAll": 259,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เขาถูกรถชนก็เลยต้องทํากายภาพบําบัดทุกวัน"
+          },
+          {
+            "_itemAll": 260,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เขาถูกรถชน เลยต้องทำกายภาพบำบัดทุกวัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 87,
+        "itemID": 88,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "คนนี้คืออาจาร์จุ๊ครับ Bangkok เป็นภาษาไทยเรียกว่ากรุงเทพฯ การบ้านของผมเหลือเยอะ",
+        "targets": [
+          {
+            "_itemAll": 261,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "คนนี้คืออาจารย์จุ๊ครับ กรุงเทพฯ เป็นภาษาไทยเรียกว่า Bangkok การบ้านของผมยังเหลือเยอะ"
+          },
+          {
+            "_itemAll": 262,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "คนนี้คืออาจาร์จุ๊ครับ Bangkok เป็นภาษาไทยเรียกว่ากรุงเทพฯ การบ้านของผมเหลือเยอะ"
+          },
+          {
+            "_itemAll": 263,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "คนนี้คืออาจาร์จุ๊ครับ Bangkok เป็นภาษาไทยเรียกว่ากรุงเทพฯ การบ้านของผมเหลือเยอะ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 88,
+        "itemID": 89,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "เขา ชอบ แข่ง กับ เพือน.",
+        "targets": [
+          {
+            "_itemAll": 264,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขาชอบแข่งกับเพื่อน"
+          },
+          {
+            "_itemAll": 265,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เขาชอบแข่งกับเพื่อน"
+          },
+          {
+            "_itemAll": 266,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เขาชอบแข่งกับเพื่อน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 89,
+        "itemID": 90,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "เวลาเข้าช่วงสอบ",
+        "targets": [
+          {
+            "_itemAll": 267,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เวลาเข้าช่วงสอบ"
+          },
+          {
+            "_itemAll": 268,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เวลาเข้าช่วงสอบ"
+          },
+          {
+            "_itemAll": 269,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เวลาเข้าช่วงสอบ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 90,
+        "itemID": 91,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ตอนกลางคืนมีกิจกรรมอื่นค่ะ",
+        "targets": [
+          {
+            "_itemAll": 270,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ตอนกลางคืนมีกิจกรรมอื่นค่ะ"
+          },
+          {
+            "_itemAll": 271,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ตอนกลางคืนมีกิจกรรมอื่นค่ะ"
+          },
+          {
+            "_itemAll": 272,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ตอนกลางคืนมีกิจกรรมอื่นค่ะ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 91,
+        "itemID": 92,
+        "itemType": "TGT",
+        "sourceID": "24",
+        "sourceText": "ไม่มีเพื่อน แต่ก็ไม่รู้สึกเหงา",
+        "targets": [
+          {
+            "_itemAll": 273,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ไม่มีเพื่อน แต่ก็ไม่รู้สึกเหงา"
+          },
+          {
+            "_itemAll": 274,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ไม่มีเพื่อน แต่ก็ไม่รู้สึกเหงา"
+          },
+          {
+            "_itemAll": 275,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ไม่มีเพื่อน แต่ก็ไม่รู้สึกเหงา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 92,
+        "itemID": 93,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "เมื่อคืน นี้ ผมนอนสัก ๗ ชั่วโมง",
+        "targets": [
+          {
+            "_itemAll": 276,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เมื่อคืนนี้ผมนอนประมาณ ๗ ชั่วโมง"
+          },
+          {
+            "_itemAll": 277,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เมื่อคืนนี้ ผมนอนประมาณ ๗ ชั่วโมง"
+          },
+          {
+            "_itemAll": 278,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เมื่อคืนนี้ ผมนอนประมาณ ๗ ชั่วโมง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 93,
+        "itemID": 94,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "สวนทำนองของเพลงนี้ได้เกิดเมื่อประมาณ ค.ศ. ๑๘oo และได้รับรองเป็นเพลงชาติอย่างเป็นทางการเมื่อ ค.ศ. ๑๙๙๙",
+        "targets": [
+          {
+            "_itemAll": 279,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "สวนทํานองของเพลงนี้ได้เกิดขึ้นเมื่อประมาณ ค.ศ. ๑๘๐๐ และได้รับการรับรองเป็นเพลงชาติอย่างเป็นทางการเมื่อ ค.ศ. ๑๙๙๙"
+          },
+          {
+            "_itemAll": 280,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "สันนิษฐานว่าทำนองเพลงนี้เกิดขึ้นประมาณ ค.ศ. ๑๘๐๐ และได้รับรองเป็นเพลงชาติอย่างเป็นทางการเมื่อ ค.ศ. ๑๙๙๙"
+          },
+          {
+            "_itemAll": 281,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "สวนทํานองของเพลงนี้ได้เกิดขึ้นเมื่อประมาณ ค.ศ. ๑๘๐๐ และได้รับการรับรองเป็นเพลงชาติอย่างเป็นทางการเมื่อ ค.ศ. ๑๙๙๙"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 94,
+        "itemID": 95,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "สมัยก่อนชาวนา ปลูกพริก เพื่อกำจัด แมลงจากผัก๐",
+        "targets": [
+          {
+            "_itemAll": 282,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "สมัยก่อนชาวนาปลูกพริกเพื่อกำจัดแมลงจากผัก"
+          },
+          {
+            "_itemAll": 283,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "สมัยก่อนชาวนาปลูกพริก เพื่อกําจัดแมลงจากผัก"
+          },
+          {
+            "_itemAll": 284,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "สมัยก่อนชาวนาปลูกพริกเพื่อกําจัดแมลงจากผัก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 95,
+        "itemID": 96,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "วันนี้ผมจะออกกำลังกายที่ยิม",
+        "targets": [
+          {
+            "_itemAll": 285,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้ผมจะออกกําลังกายที่ยิม"
+          },
+          {
+            "_itemAll": 286,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้ผมจะออกกําลังกายที่ยิม"
+          },
+          {
+            "_itemAll": 287,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "วันนี้ผมจะไปออกกำลังกายที่ยิม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 96,
+        "itemID": 97,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ยังมีเทศกาลนี้อีกด้วย",
+        "targets": [
+          {
+            "_itemAll": 288,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ยังมีเทศกาลนี้อีกด้วย"
+          },
+          {
+            "_itemAll": 289,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ยังมีเทศกาลนี้อีกด้วย"
+          },
+          {
+            "_itemAll": 290,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ยังมีเทศกาลนี้อีกด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 97,
+        "itemID": 98,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "ในคืนนันมีประเณีที่ฉลอง โดยการถือโคมไฟและการทายปริศนาที่อยู่บนโคมไฟ",
+        "targets": [
+          {
+            "_itemAll": 291,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ในคืนนันมีประเณีที่ฉลองโดยการถือโคมไฟและการทายปริศนาที่อยู่บนโคมไฟ"
+          },
+          {
+            "_itemAll": 292,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ในคืนนั้น มีประเพณีฉลองโดยการถือโคมไฟและการทายปริศนาที่อยู่บนโคมไฟ"
+          },
+          {
+            "_itemAll": 293,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ในคืนนั้นมีประเพณีที่ฉลองโดยการถือโคมไฟและทายปริศนาที่อยู่บนโคมไฟ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 98,
+        "itemID": 99,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ผมขอบคุณที่อาจารย์ทุกท่านพยายามสอนความรู้ให้ แต่ขอโทษที่ผมยังเรียนรู้ไม่ได้ทั้งหมด",
+        "targets": [
+          {
+            "_itemAll": 294,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ผมขอบคุณอาจารย์ทุกท่านที่พยายามสอนความรู้ให้ แต่ผมยังเรียนรู้ได้ไม่ทั้งหมด"
+          },
+          {
+            "_itemAll": 295,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ผมขอบคุณที่อาจารย์ทุกท่านพยายามสอนให้ความรู้ และขอโทษที่ผมยังเรียนรู้ไม่ได้ทั้งหมด"
+          },
+          {
+            "_itemAll": 296,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ผมขอบคุณที่อาจารย์ทุกท่านพยายามสอนความรู้ให้ แต่ขอโทษที่ผมยังเรียนรู้ไม่ได้ทั้งหมด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 99,
+        "itemID": 100,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "คนจีนสมัยก่อนคิดว่าผู้ชายเก่งกว่าผู้หญิงในทุกสิ่งทุกอย่าง",
+        "targets": [
+          {
+            "_itemAll": 297,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "คนจีนสมัยก่อนคิดว่าผู้ชายเก่งกว่าผู้หญิงในทุกสิ่งทุกอย่าง"
+          },
+          {
+            "_itemAll": 298,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "คนจีนสมัยก่อนคิดว่าผู้ชายเก่งกว่าผู้หญิงในทุกสิ่งทุกอย่าง"
+          },
+          {
+            "_itemAll": 299,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "คนจีนสมัยก่อนคิดว่าผู้ชายเก่งกว่าผู้หญิงในทุกๆ ด้าน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 10,
+        "_item": 100,
+        "itemID": 101,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ในปัจจุบันผมกินแต่ข้าวและก๋วยเตี๋ยวเพราะอยู่ประเทศไทยแล้ว",
+        "targets": [
+          {
+            "_itemAll": 300,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ในปัจจุบันผมกินแต่ข้าวและก๋วยเตี๋ยว เพราะผมอยู่ประเทศไทยแล้ว"
+          },
+          {
+            "_itemAll": 301,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ในปัจจุบันผมกินแต่ข้าวและก๋วยเตี๋ยว เพราะอยู่ประเทศไทยแล้ว"
+          },
+          {
+            "_itemAll": 302,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ในปัจจุบันผมกินแต่ข้าวและก๋วยเตี๋ยว เพราะอยู่ประเทศไทยแล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 10,
+        "_item": 101,
+        "itemID": 102,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "รอซักครู่",
+        "targets": [
+          {
+            "_itemAll": 303,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "รอซักครู่"
+          },
+          {
+            "_itemAll": 304,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "รอสักครู่"
+          },
+          {
+            "_itemAll": 305,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "รอซักครู่"
+          }
+        ],
+        "targetsSize": 3
+      }
+    ],
+    "task": {
+      "batchNo": 1,
+      "batchSize": 102,
+      "requiredAnnotations": 2,
+      "sourceLanguage": "tha",
+      "targetLanguage": "tha"
+    }
+  },
+  {
+    "items": [
+      {
+        "_block": 0,
+        "_item": 0,
+        "itemID": 103,
+        "itemType": "TGT",
+        "sourceID": "18",
+        "sourceText": "ในทางตรงข้าม",
+        "targets": [
+          {
+            "_itemAll": 306,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ในทางตรงกันข้าม"
+          },
+          {
+            "_itemAll": 307,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ในทางตรงกันข้าม"
+          },
+          {
+            "_itemAll": 308,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ในทางตรงกันข้าม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 1,
+        "itemID": 104,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เทศกาลที่ผมสนใจ คือ ลอยกระทง เทศกาลนี้จัดขึ้นทุกปี ตรงกับ วันขึ้น ๑๕ ค่ำ เดือน ๑๒ เป็นวันที่พระจันทร์เต็มดวง",
+        "targets": [
+          {
+            "_itemAll": 309,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เทศกาลที่ผมสนใจ คือ ลอยกระทง เทศกาลนี้จัดขึ้นทุกปี ตรงกับวันขึ้น ๑๕ ค่ํา เดือน ๑๒ เป็นวันที่พระจันทร์เต็มดวง"
+          },
+          {
+            "_itemAll": 310,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เทศกาลที่ผมสนใจคือลอยกระทง เทศกาลนี้จัดขึ้นทุกปี ตรงกับวันขึ้น ๑๕ ค่ำ เดือน ๑๒ ซึ่งเป็นวันที่พระจันทร์เต็มดวง"
+          },
+          {
+            "_itemAll": 311,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เทศกาลที่ผมสนใจ คือ ลอยกระทง เทศกาลนี้จัดขึ้นทุกปี ตรงกับวันขึ้น ๑๕ ค่ํา เดือน ๑๒ เป็นวันที่พระจันทร์เต็มดวง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 2,
+        "itemID": 105,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ทุกปีจะใช้มะเขือเทศประมาณ 150 ตัน",
+        "targets": [
+          {
+            "_itemAll": 312,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ทุกปีใช้มะเขือเทศประมาณ 150 ตัน"
+          },
+          {
+            "_itemAll": 313,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ทุกปีจะใช้มะเขือเทศประมาณ 150 ตัน"
+          },
+          {
+            "_itemAll": 314,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ทุกปีจะใช้มะเขือเทศประมาณ 150 ตัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 3,
+        "itemID": 106,
+        "itemType": "TGT",
+        "sourceID": "14",
+        "sourceText": "ดิฉันก็รู้สึกว่าไม่มีความรัก",
+        "targets": [
+          {
+            "_itemAll": 315,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ดิฉันก็รู้สึกว่าไม่มีความรัก"
+          },
+          {
+            "_itemAll": 316,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ดิฉันก็รู้สึกว่าไม่มีความรัก"
+          },
+          {
+            "_itemAll": 317,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ดิฉันก็รู้สึกว่าไม่มีความรัก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 4,
+        "itemID": 107,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ฉัน ท้อง เจ็บ เพราะ เช้านี กิน อาหาร ต่อเนื่อง.",
+        "targets": [
+          {
+            "_itemAll": 318,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ฉันท้องเจ็บ เพราะเช้านี้กินอาหารไม่หยุด"
+          },
+          {
+            "_itemAll": 319,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันท้องเจ็บเพราะเช้านี้กินอาหารต่อเนื่อง"
+          },
+          {
+            "_itemAll": 320,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ฉันท้องเจ็บ เพราะเช้านี้กินอาหารต่อเนื่อง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 5,
+        "itemID": 108,
+        "itemType": "TGT",
+        "sourceID": "24",
+        "sourceText": "อ่ยาให้อุปสรรคหยุดคุณต่อไป",
+        "targets": [
+          {
+            "_itemAll": 321,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "อย่าให้อุปสรรคหยุดคุณต่อไป"
+          },
+          {
+            "_itemAll": 322,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ขอให้บรรเทาอุปสรรคมาหยุดคุณต่อไป"
+          },
+          {
+            "_itemAll": 323,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ขอให้อุปสรรคหยุดคุณต่อไป"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 6,
+        "itemID": 109,
+        "itemType": "TGT",
+        "sourceID": "15",
+        "sourceText": "ตอนนี้เศรษฐกิจของ กรุงเทพฯพัฒนาแล้ว",
+        "targets": [
+          {
+            "_itemAll": 324,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ตอนนี้เศรษฐกิจของกรุงเทพฯ พัฒนาแล้ว"
+          },
+          {
+            "_itemAll": 325,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ตอนนี้เศรษฐกิจของกรุงเทพฯ พัฒนาแล้ว"
+          },
+          {
+            "_itemAll": 326,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ตอนนี้เศรษฐกิจของกรุงเทพฯ พัฒนาแล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 7,
+        "itemID": 110,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เพลงชาติสาธารณรัฐจีน เพลงชาติสาธารณรัฐจีนเกิดมาตอนปี 1928",
+        "targets": [
+          {
+            "_itemAll": 327,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เพลงชาติสาธารณรัฐจีน เพลงชาติสาธารณรัฐจีนเกิดขึ้นมาตอนปี 1928"
+          },
+          {
+            "_itemAll": 328,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เพลงชาติสาธารณรัฐจีน เพลงนี้เกิดขึ้นในปี 1928"
+          },
+          {
+            "_itemAll": 329,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เพลงชาติสาธารณรัฐจีน เกิดมาตอนปี 1928"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 8,
+        "itemID": 111,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "ไม่ได้มาที่นี่นานบรรยากาศไปลี่ยนไปมาก",
+        "targets": [
+          {
+            "_itemAll": 330,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ไม่ได้มาที่นี่นาน บรรยากาศเปลี่ยนไปมาก"
+          },
+          {
+            "_itemAll": 331,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ไม่ได้มาที่นี่นาน บรรยากาศไปลี่ยนไปมาก"
+          },
+          {
+            "_itemAll": 332,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ไม่ได้มาที่นี่นาน บรรยากาศเปลี่ยนไปมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 0,
+        "_item": 9,
+        "itemID": 112,
+        "itemType": "TGT",
+        "sourceID": "24",
+        "sourceText": "วันหนึ่งเพื่อน Xiong ชวน Xiong ไปกรล่าสัตว์ Xion บอกว่าเขาไปไม่ได้",
+        "targets": [
+          {
+            "_itemAll": 333,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "วันหนึ่งเพื่อน Xiong ชวน Xiong ไปล่าสัตว์ Xiong บอกว่าเขาไปไม่ได้"
+          },
+          {
+            "_itemAll": 334,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "วันหนึ่งเพื่อน Xiong ชวน Xiong ไปกรล่าสัตว์ Xiong บอกว่าเขาไปไม่ได้"
+          },
+          {
+            "_itemAll": 335,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ในวันหนึ่ง เพื่อน Xiong ชวน Xiong ไปกรล่าสัตว์ Xiong บอกว่าเขาไปไม่ได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 10,
+        "itemID": 113,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ฉันไปออกกำลังกายเป็นประจำ",
+        "targets": [
+          {
+            "_itemAll": 336,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันไปออกกำลังกายเป็นประจำ"
+          },
+          {
+            "_itemAll": 337,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันไปออกกําลังกายเป็นประจํา"
+          },
+          {
+            "_itemAll": 338,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันไปออกกําลังกายเป็นประจํา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 11,
+        "itemID": 114,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ไม่มีใครเป็นปกติ",
+        "targets": [
+          {
+            "_itemAll": 339,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ไม่มีใครปกติ"
+          },
+          {
+            "_itemAll": 340,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ไม่มีใครปกติ"
+          },
+          {
+            "_itemAll": 341,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ไม่มีใครเป็นปกติ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 12,
+        "itemID": 115,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ที่ไต้หวันวาระของนักการเมืองส่วนใหญ่เป็น 4 ปี",
+        "targets": [
+          {
+            "_itemAll": 342,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "นักการเมืองไต้หวันวาระของนักการเมืองส่วนใหญ่คือ 4 ปี"
+          },
+          {
+            "_itemAll": 343,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ที่ไต้หวัน วาระของนักการเมืองส่วนใหญ่เป็น 4 ปี"
+          },
+          {
+            "_itemAll": 344,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ที่ไต้หวัน วาระของนักการเมืองส่วนใหญ่คือ 4 ปี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 13,
+        "itemID": 116,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "สีแดงของมะเขือเทศ",
+        "targets": [
+          {
+            "_itemAll": 345,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "สีแดงของมะเขือเทศ"
+          },
+          {
+            "_itemAll": 346,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "สีแดงของมะเขือเทศ"
+          },
+          {
+            "_itemAll": 347,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "สีแดงของมะเขือเทศ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 14,
+        "itemID": 117,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "เอาอาหารสำเร็จรูปมาให้ทานและ เสื้อผ้ามาให้สวม ช่วยดูแลสัตว์เลี้ยงต่างๆ จัดเตรียมบริการสุขภาพ ให้ผู้ได้รับบาดเจ็บและคนมีโรคอยู่แล้ว",
+        "targets": [
+          {
+            "_itemAll": 348,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "เอาอาหารสําเร็จรูปมาให้ทานและเสื้อผ้ามาให้สวม ช่วยดูแลสัตว์เลี้ยงต่าง ๆ จัดเตรียมบริการสุขภาพให้กับผู้ที่ได้รับบาดเจ็บและคนมีโรคอยู่แล้ว"
+          },
+          {
+            "_itemAll": 349,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เอาอาหารสำเร็จรูปมาให้ทาน เสื้อผ้ามาให้สวม ช่วยดูแลสัตว์เลี้ยงต่างๆ จัดเตรียมบริการสุขภาพให้ผู้ได้รับบาดเจ็บและคนป่วย"
+          },
+          {
+            "_itemAll": 350,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เอาอาหารสําเร็จรูปมาให้ทานและเสื้อผ้ามาให้สวม ช่วยดูแลสัตว์เลี้ยงต่างๆ จัดเตรียมบริการสุขภาพให้ผู้ได้รับบาดเจ็บและคนมีโรคอยู่แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 15,
+        "itemID": 118,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ผมจะไม่มาสายสำหรับชั้นเรียนอยู่แล้ว",
+        "targets": [
+          {
+            "_itemAll": 351,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมจะไม่มาเรียนสายสําหรับชั้นเรียนอยู่แล้ว"
+          },
+          {
+            "_itemAll": 352,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผมจะไม่มาสายสำหรับชั้นเรียนอยู่แล้ว"
+          },
+          {
+            "_itemAll": 353,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ผมจะไม่มาสายสําหรับชั้นเรียนอยู่แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 16,
+        "itemID": 119,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ในปัจจุบันทุกคนใช้โทรศัพท์มือถือ",
+        "targets": [
+          {
+            "_itemAll": 354,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ในปัจจุบันทุกคนใช้โทรศัพท์มือถือ"
+          },
+          {
+            "_itemAll": 355,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ในปัจจุบันทุกคนใช้โทรศัพท์มือถือ"
+          },
+          {
+            "_itemAll": 356,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ในปัจจุบันทุกคนใช้โทรศัพท์มือถือ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 17,
+        "itemID": 120,
+        "itemType": "TGT",
+        "sourceID": "21",
+        "sourceText": "ปลายเดือนกันยายนถึง ต้นธันวาคม เป็นฤดูใบไม้ร่วง และอากศพอดี ๆ และฝนไม่",
+        "targets": [
+          {
+            "_itemAll": 357,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ปลายเดือนกันยายนถึงต้นธันวาคมเป็นฤดูใบไม้ร่วง อากาศพอดี ๆ และฝนไม่ตก"
+          },
+          {
+            "_itemAll": 358,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ปลายเดือนกันยายนถึงต้นธันวาคม เป็นฤดูใบไม้ร่วง อากาศเย็นสบาย และฝนไม่ตก"
+          },
+          {
+            "_itemAll": 359,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ปลายเดือนกันยายนถึงต้นธันวาคม เป็นฤดูใบไม้ร่วง และอากศพอดี ๆ และฝนไม่"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 18,
+        "itemID": 121,
+        "itemType": "TGT",
+        "sourceID": "20",
+        "sourceText": "เวลาน้ำท่วมเกิดขึ้นก็จะได้",
+        "targets": [
+          {
+            "_itemAll": 360,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เวลาน้ำท่วมก็จะได้"
+          },
+          {
+            "_itemAll": 361,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เวลาน้ําท่วมเกิดขึ้นก็จะได้"
+          },
+          {
+            "_itemAll": 362,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เวลาน้ําท่วมเกิดขึ้นก็จะได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 1,
+        "_item": 19,
+        "itemID": 122,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "พ่อ แม่ บอกว่า พี่ชาย ต้อง ช่วย พ่อ แม่ เลี้ยง น้อง สาว เพราะ พี่ ทำ อะ ไร เอง ได้ แล้ว",
+        "targets": [
+          {
+            "_itemAll": 363,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "พ่อแม่บอกว่า พี่ชายต้องช่วยพ่อแม่เลี้ยงน้องสาว เพราะพี่ทําอะไรเองได้แล้ว"
+          },
+          {
+            "_itemAll": 364,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "พ่อแม่บอกว่า พี่ชายต้องช่วยพ่อ แม่เลี้ยงน้องสาว เพราะพี่ทําอะไรเองได้แล้ว"
+          },
+          {
+            "_itemAll": 365,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "พ่อแม่บอกว่าพี่ชายต้องช่วยพ่อแม่เลี้ยงน้องสาว เพราะพี่ทำอะไรเองได้แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 20,
+        "itemID": 123,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "ถ้าอ่านหนังสือมาก คุณจะมีความรู้มาก",
+        "targets": [
+          {
+            "_itemAll": 366,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ถ้าอ่านหนังสือมาก คุณจะมีความรู้มากขึ้น"
+          },
+          {
+            "_itemAll": 367,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ถ้าอ่านหนังสือมาก คุณจะมีความรู้มาก"
+          },
+          {
+            "_itemAll": 368,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ถ้าอ่านหนังสือมาก คุณจะมีความรู้มาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 21,
+        "itemID": 124,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ฉันไม่ชอบเขาเลยเพราะนิสัยไม่ดี",
+        "targets": [
+          {
+            "_itemAll": 369,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ฉันไม่ชอบเขาเลยเพราะนิสัยไม่ดี"
+          },
+          {
+            "_itemAll": 370,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ฉันไม่ชอบเขาเลย เพราะนิสัยไม่ดี"
+          },
+          {
+            "_itemAll": 371,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ฉันไม่ชอบเขาเลย เพราะนิสัยไม่ดี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 22,
+        "itemID": 125,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "ปกติวันพืชมงคลจะเกิดที่พฤษภาคมทุกปี แต่ส่วนของวันที่ไหนจะเป็นการประกาศจากรัฐบาล",
+        "targets": [
+          {
+            "_itemAll": 372,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ปกติวันพืชมงคลจะเกิดขึ้นที่พฤษภาคมทุกปี แต่ส่วนของวันที่ไหนจะเป็นการประกาศจากรัฐบาล"
+          },
+          {
+            "_itemAll": 373,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ปกติวันพืชมงคลจะเกิดที่พฤษภาคมทุกปี แต่ส่วนของวันที่ไหนจะเป็นการประกาศจากรัฐบาล"
+          },
+          {
+            "_itemAll": 374,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ปกติวันพืชมงคลจะตรงกับเดือนพฤษภาคมของทุกปี แต่ส่วนวันที่ไหน รัฐบาลจะเป็นผู้ประกาศ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 23,
+        "itemID": 126,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "ยังบริเวณที่มีคุณค่าทางทะเลสวยงามจนเห็นพะยูนได้",
+        "targets": [
+          {
+            "_itemAll": 375,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ยังมีบริเวณที่มีคุณค่าทางทะเลสวยงามจนสามารถเห็นพะยูนได้"
+          },
+          {
+            "_itemAll": 376,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ยังบริเวณที่มีคุณค่าทางทะเลที่สวยงามจนเห็นพะยูนได้"
+          },
+          {
+            "_itemAll": 377,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ยังบริเวณที่มีคุณค่าทางทะเลสวยงามจนเห็นพะยูนได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 24,
+        "itemID": 127,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "ผมคิดว่าวิธีแก้ปัญหามีหลายวิธี เช่น สร้างรถไฟฟ้าให้ มากขึ้น",
+        "targets": [
+          {
+            "_itemAll": 378,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผมคิดว่าวิธีแก้ปัญหามีหลายวิธี เช่น สร้างรถไฟฟ้าให้มากขึ้น"
+          },
+          {
+            "_itemAll": 379,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผมคิดว่าวิธีแก้ปัญหามีหลายวิธี เช่น สร้างรถไฟฟ้าให้มากขึ้น"
+          },
+          {
+            "_itemAll": 380,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ผมคิดว่าวิธีแก้ปัญหามีหลายวิธี เช่น สร้างรถไฟฟ้าให้มากขึ้น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 25,
+        "itemID": 128,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ถนนข้าวสารมีคนแปลก ๆ ในอดีด",
+        "targets": [
+          {
+            "_itemAll": 381,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ถนนข้าวสารมีคนแปลก ๆ ในอดีด"
+          },
+          {
+            "_itemAll": 382,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ถนนข้าวสารมีคนแปลก ๆ ในอดีด"
+          },
+          {
+            "_itemAll": 383,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ถนนข้าวสารมีคนแปลกๆ ในอดีต"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 26,
+        "itemID": 129,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "มันสามารถทำเป็นผลไม้กวน น้ำผลไม้ ขนม ฯลฯ",
+        "targets": [
+          {
+            "_itemAll": 384,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผลไม้สามารถทําเป็นผลไม้กวน น้ําผลไม้ ขนม ฯลฯ"
+          },
+          {
+            "_itemAll": 385,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "มันสามารถทำเป็นผลไม้กวน น้ำผลไม้ ขนม ฯลฯ"
+          },
+          {
+            "_itemAll": 386,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "มันสามารถทําเป็นผลไม้กวน น้ําผลไม้ ขนม ฯลฯ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 27,
+        "itemID": 130,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "พ่อแม่ มา ประเทศไทยไม่กี่วันเพราะว่าพ่อแม่ต้องทำงานที่ประเทศจีน",
+        "targets": [
+          {
+            "_itemAll": 387,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "พ่อแม่มาประเทศไทยไม่กี่วันเพราะว่าพ่อแม่ต้องทํางานที่ประเทศจีน"
+          },
+          {
+            "_itemAll": 388,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "พ่อแม่มาประเทศไทยไม่กี่วัน เพราะพ่อแม่ต้องทํางานที่ประเทศจีน"
+          },
+          {
+            "_itemAll": 389,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "พ่อแม่มาประเทศไทยไม่กี่วัน เพราะว่าพ่อแม่ต้องทำงานที่ประเทศจีน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 28,
+        "itemID": 131,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "เขามีแนวโน้มที่จะอพยพออกประเทศ",
+        "targets": [
+          {
+            "_itemAll": 390,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขามีแนวโน้มที่จะอพยพออกประเทศ"
+          },
+          {
+            "_itemAll": 391,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เขามีแนวโน้มที่จะอพยพออกจากประเทศ"
+          },
+          {
+            "_itemAll": 392,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "เขามีแนวโน้มที่จะอพยพออกจากประเทศ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 2,
+        "_item": 29,
+        "itemID": 132,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เวลาเรายืนบนบันไดเลื่อนต้องยืนด้านขวา",
+        "targets": [
+          {
+            "_itemAll": 393,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เวลาเรายืนบนบันไดเลื่อน ต้องยืนด้านขวา"
+          },
+          {
+            "_itemAll": 394,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เวลาเรายืนบนบันไดเลื่อนต้องยืนด้านขวา"
+          },
+          {
+            "_itemAll": 395,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เวลาเรายืนบนบันไดเลื่อนต้องยืนด้านขวา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 30,
+        "itemID": 133,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "วันนี้หลังเลกงานคุณอยากไปหอสมุดต่อไหม",
+        "targets": [
+          {
+            "_itemAll": 396,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "วันนี้หลังเลิกงาน คุณอยากไปหอสมุดต่อไหม"
+          },
+          {
+            "_itemAll": 397,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้หลังเลิกงาน คุณอยากไปหอสมุดต่อไหม"
+          },
+          {
+            "_itemAll": 398,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้หลังเลิกงานคุณอยากไปหอสมุดต่อไหม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 31,
+        "itemID": 134,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "วิธีแก้ปัญหานี้ คือ การติดตั้งกล้องวงจรปิดที่ทุก ซุปเปอร์มาร์เก็ตหรือ ห้าง และจ้างการ์ดใส่เสื้อทั่วไป",
+        "targets": [
+          {
+            "_itemAll": 399,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วิธีแก้ปัญหานี้ คือ การติดตั้งกล้องวงจรปิดที่ซูเปอร์มาร์เก็ตหรือห้างทุกแห่ง และจ้างการ์ดใส่เสื้อทั่วไป"
+          },
+          {
+            "_itemAll": 400,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วิธีแก้ปัญหานี้ คือ การติดตั้งกล้องวงจรปิดในทุกซุปเปอร์มาร์เก็ต ห้างสรรพสินค้า และจ้างการ์ดในชุดปกติ"
+          },
+          {
+            "_itemAll": 401,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วิธีแก้ปัญหานี้ คือ การติดตั้งกล้องวงจรปิดที่ทุกซุปเปอร์มาร์เก็ตหรือห้าง และจ้างการ์ดใส่เสื้อทั่วไป"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 32,
+        "itemID": 135,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "คนไทยส่วนใหญ่นับถือศาสนาพุทธ",
+        "targets": [
+          {
+            "_itemAll": 402,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "คนไทยส่วนใหญ่นับถือศาสนาพุทธ"
+          },
+          {
+            "_itemAll": 403,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "คนไทยส่วนใหญ่นับถือศาสนาพุทธ"
+          },
+          {
+            "_itemAll": 404,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "คนไทยส่วนใหญ่นับถือศาสนาพุทธ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 33,
+        "itemID": 136,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ในบรรดารถทั้งหมดผมชอบโตโยต้าที่สุด",
+        "targets": [
+          {
+            "_itemAll": 405,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ในบรรดารถทั้งหมด ผมชอบโตโยต้าที่สุด"
+          },
+          {
+            "_itemAll": 406,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ในบรรดารถทั้งหมด ผมชอบโตโยต้าที่สุด"
+          },
+          {
+            "_itemAll": 407,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ในบรรดารถทั้งหมด ผมชอบโตโยต้าที่สุด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 34,
+        "itemID": 137,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "วันนี้เขาไม่มาเรียนเนื่องจากเขาต้องทำงาน",
+        "targets": [
+          {
+            "_itemAll": 408,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้เขาไม่มาเรียนเนื่องจากเขาต้องทํางาน"
+          },
+          {
+            "_itemAll": 409,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วันนี้เขาไม่มาเรียน เพราะเขาต้องทำงาน"
+          },
+          {
+            "_itemAll": 410,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้เขาไม่มาเรียน เนื่องจากเขาต้องทํางาน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 35,
+        "itemID": 138,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ไต้หวันมีพื้นที่ประมาณ 36,000 ตารางกิโลเมตร ขนาดพื้นที่เล็กกว่าประเทศไทยประมาณ 14 เท่า ประกอบด้วยเกาะน้อยใหญ่รวม 172 เกาะ",
+        "targets": [
+          {
+            "_itemAll": 411,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ไต้หวันมีพื้นที่ประมาณ 36,000 ตารางกิโลเมตรขนาดพื้นที่เล็กกว่าประเทศไทยประมาณ 14 เท่า ประกอบด้วยเกาะน้อยใหญ่รวม 172 เกาะ"
+          },
+          {
+            "_itemAll": 412,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ไต้หวันมีพื้นที่ประมาณ 36,000 ตารางกิโลเมตร เล็กกว่าประเทศไทยประมาณ 14 เท่า ประกอบด้วยเกาะน้อยใหญ่รวม 172 เกาะ"
+          },
+          {
+            "_itemAll": 413,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ไต้หวันมีพื้นที่ประมาณ 36,000 ตารางกิโลเมตร ขนาดพื้นที่เล็กกว่าประเทศไทยประมาณ 14 เท่า ประกอบด้วยเกาะน้อยใหญ่รวม 172 เกาะ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 36,
+        "itemID": 139,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ดวงจันทร์ไม่มีแสงสว่างในตัวเอง",
+        "targets": [
+          {
+            "_itemAll": 414,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ดวงจันทร์ไม่มีแสงสว่างของตัวเอง"
+          },
+          {
+            "_itemAll": 415,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ดวงจันทร์ไม่มีแสงสว่างในตัวเอง"
+          },
+          {
+            "_itemAll": 416,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ดวงจันทร์ไม่มีแสงสว่างในตัวเอง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 37,
+        "itemID": 140,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ขอโทษที่มาสาย",
+        "targets": [
+          {
+            "_itemAll": 417,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ขอโทษที่มาสาย"
+          },
+          {
+            "_itemAll": 418,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ขอโทษที่มาสาย"
+          },
+          {
+            "_itemAll": 419,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ขอโทษที่สาย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 38,
+        "itemID": 141,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "ผมชอบข้าวมันไก่ที่สุด",
+        "targets": [
+          {
+            "_itemAll": 420,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผมชอบข้าวมันไก่ที่สุด"
+          },
+          {
+            "_itemAll": 421,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ผมชอบข้าวมันไก่ที่สุด"
+          },
+          {
+            "_itemAll": 422,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมชอบข้าวมันไก่ที่สุด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 3,
+        "_item": 39,
+        "itemID": 142,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "หวัดของเมืองไทย",
+        "targets": [
+          {
+            "_itemAll": 423,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "หวัดของเมืองไทย"
+          },
+          {
+            "_itemAll": 424,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "โรคหวัดในเมืองไทย"
+          },
+          {
+            "_itemAll": 425,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "หวัดของเมืองไทย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 40,
+        "itemID": 143,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "หาก 20 บาทนี้จะไม่เสียความคุ้มค่าหรือมูลค่า ทำไมคุณรู้สึกว่า คุณเสียคุณค่า หรือ คุณค่าของคุณไปแล้ว",
+        "targets": [
+          {
+            "_itemAll": 426,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "หาก 20 บาทนี้จะไม่เสียคุณค่าหรือมูลค่า ทําไมคุณถึงรู้สึกว่า คุณเสียคุณค่าหรือคุณค่าของคุณไปแล้ว"
+          },
+          {
+            "_itemAll": 427,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "หาก 20 บาทนี้จะไม่คุ้มค่า ทำไมคุณถึงรู้สึกว่าคุณเสียคุณค่าหรือไร้ค่า"
+          },
+          {
+            "_itemAll": 428,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "หาก 20 บาทนี้จะไม่เสียคุณค่าหรือมูลค่า ทําไมคุณถึงรู้สึกว่า คุณเสียคุณค่าหรือคุณค่าของคุณไปแล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 41,
+        "itemID": 144,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "แต่งตัวเร็วๆเข้า เดี๋ยวไปทำงานไม่ทัน",
+        "targets": [
+          {
+            "_itemAll": 429,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "แต่งตัวเร็ว ๆ เข้า เดี๋ยวไปทํางานไม่ทัน"
+          },
+          {
+            "_itemAll": 430,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "แต่งตัวเร็ว ๆ เข้า เดี๋ยวไปทํางานไม่ทัน"
+          },
+          {
+            "_itemAll": 431,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "แต่งตัวเร็วๆ เดี๋ยวไปทำงานไม่ทัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 42,
+        "itemID": 145,
+        "itemType": "TGT",
+        "sourceID": "11",
+        "sourceText": "ฉันเห็นบอกว่าเขาไม่ชอบอาหารญี่ปุน",
+        "targets": [
+          {
+            "_itemAll": 432,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ฉันเห็นเขาบอกว่าเขาไม่ชอบอาหารญี่ปุ่น"
+          },
+          {
+            "_itemAll": 433,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ฉันได้ยินมาว่าเขาไม่ชอบอาหารญี่ปุ่น"
+          },
+          {
+            "_itemAll": 434,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันเห็นเขาบอกว่าเขาไม่ชอบอาหารญี่ปุ่น"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 43,
+        "itemID": 146,
+        "itemType": "TGT",
+        "sourceID": "27",
+        "sourceText": "หว่งว่าประสบการณ์คนเจียซาน จะดลใจผู้อ่านในอนาคต อาจสนับสนุนการดูแลแหล่งธรรมชาติของประเทศหรือไปดำน้ำกับคนเจียซานด้วยก็ดี",
+        "targets": [
+          {
+            "_itemAll": 435,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "หว่งว่าประสบการณ์ของคนเจียซานจะดลใจผู้อ่านในอนาคต อาจสนับสนุนการดูแลแหล่งธรรมชาติของประเทศหรือไปดําน้ํากับคนเจียซานด้วยก็ดี"
+          },
+          {
+            "_itemAll": 436,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "หวังว่าประสบการณ์ของคนเจียซานจะบอบชญใจผู้อ่านในอนาคต อาจสนับสนุนการดูแลแหล่งธรรมชาติของประเทศหรือไปดําน้ํากับคนเจียซานด้วยก็ดี"
+          },
+          {
+            "_itemAll": 437,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "หวังว่าประสบการณ์ของคนเจียซาน จะดลใจผู้อ่านในอนาคต อาจจะสนับสนุนการดูแลแหล่งธรรมชาติของประเทศหรือไปดำน้ำกับคนเจียซานด้วยก็ดี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 44,
+        "itemID": 147,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "เขาเป็นอาสาสมัครที่ช่วยคนมีความเครียด",
+        "targets": [
+          {
+            "_itemAll": 438,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เขาเป็นอาสาสมัครที่ช่วยเหลือผู้คนที่มีความเครียด"
+          },
+          {
+            "_itemAll": 439,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เขาเป็นอาสาสมัครที่ช่วยคนที่มีความเครียด"
+          },
+          {
+            "_itemAll": 440,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เขาเป็นอาสาสมัครที่ช่วยคนเครียด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 45,
+        "itemID": 148,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "ส่งเสริมการฝึกอบรมสำหรับครูสอนภาษาอังกฤษ เป็นต้น 3) เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีหนึ่งส่วนตอนนี้รัฐบาลกำหนดให้เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีที่สาม",
+        "targets": [
+          {
+            "_itemAll": 441,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ส่งเสริมการฝึกอบรมสําหรับครูสอนภาษาอังกฤษ เป็นต้น 3. เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีหนึ่ง ส่วนตอนนี้รัฐบาลกําหนดให้เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีที่สาม"
+          },
+          {
+            "_itemAll": 442,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ส่งเสริมการฝึกอบรมสำหรับครูสอนภาษาอังกฤษ ตัวอย่างเช่น เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีหนึ่ง ซึ่งปัจจุบันรัฐบาลกำหนดให้เริ่มสอนตั้งแต่ประถมศึกษาปีที่สาม"
+          },
+          {
+            "_itemAll": 443,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ส่งเสริมการฝึกอบรมสําหรับครูสอนภาษาอังกฤษ เป็นต้น 3) เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีหนึ่ง ส่วนตอนนี้รัฐบาลกําหนดให้เริ่มสอนภาษาอังกฤษตั้งแต่ประถมศึกษาปีที่สาม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 46,
+        "itemID": 149,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "หมาชอบดูทีวีไบนอนไปอย่างกับคน",
+        "targets": [
+          {
+            "_itemAll": 444,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "หมาชอบดูทีวี ไบ นอนไปอย่างกับคน"
+          },
+          {
+            "_itemAll": 445,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "หมาชอบดูทีวีและนอนไปอย่างกับคน"
+          },
+          {
+            "_itemAll": 446,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "หมาชอบดูทีวี sambil นอนไปอย่างกับคน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 47,
+        "itemID": 150,
+        "itemType": "TGT",
+        "sourceID": "23",
+        "sourceText": "ผมรู้สึกหนาวมากแต่อา กาศร้อนมากก็จริงๆ",
+        "targets": [
+          {
+            "_itemAll": 447,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมรู้สึกหนาวมาก แต่อากาศร้อนมากก็จริง"
+          },
+          {
+            "_itemAll": 448,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผมรู้สึกหนาวมาก แต่อากาศร้อนมากก็จริง ๆ"
+          },
+          {
+            "_itemAll": 449,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมรู้สึกหนาวมาก แต่อากาศร้อนมากจริงๆ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 48,
+        "itemID": 151,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ฉันชอบออกกำลังกายไปด้วย ฝังเพลงไปด้วย ทุกวันกิจกรรมเยอะเกินไป",
+        "targets": [
+          {
+            "_itemAll": 450,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันชอบออกกำลังกายไปด้วย ฟังเพลงไปด้วย ทุกวันกิจกรรมเยอะเกินไป"
+          },
+          {
+            "_itemAll": 451,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันชอบออกกําลังกายไปด้วย ฝังเพลงไปด้วย ทุกวันกิจกรรมเยอะเกินไป"
+          },
+          {
+            "_itemAll": 452,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันชอบออกกําลังกายไปด้วย ฝังเพลงไปด้วยทุกวัน กิจกรรมเยอะเกินไป"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 4,
+        "_item": 49,
+        "itemID": 152,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ผมพบกันเพื่อนเป็นประจำ",
+        "targets": [
+          {
+            "_itemAll": 453,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ผมพบเพื่อนเป็นประจํา"
+          },
+          {
+            "_itemAll": 454,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ผมพบกันเป็นประจํา"
+          },
+          {
+            "_itemAll": 455,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมพบเพื่อนเป็นประจำ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 50,
+        "itemID": 153,
+        "itemType": "TGT",
+        "sourceID": "13",
+        "sourceText": "ไม่สามารถขยับตัวได้",
+        "targets": [
+          {
+            "_itemAll": 456,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ไม่สามารถขยับตัว"
+          },
+          {
+            "_itemAll": 457,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ไม่สามารถขยับตัวได้"
+          },
+          {
+            "_itemAll": 458,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ไม่สามารถขยับตัวได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 51,
+        "itemID": 154,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "สาเหตุมาจากกิจกรรมของมนุษย์",
+        "targets": [
+          {
+            "_itemAll": 459,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "สาเหตุมาจากกิจกรรมของมนุษย์"
+          },
+          {
+            "_itemAll": 460,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "สาเหตุมาจากกิจกรรมของมนุษย์"
+          },
+          {
+            "_itemAll": 461,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "สาเหตุมาจากกิจกรรมของมนุษย์"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 52,
+        "itemID": 155,
+        "itemType": "TGT",
+        "sourceID": "25",
+        "sourceText": "พวกเรารักคุณ !",
+        "targets": [
+          {
+            "_itemAll": 462,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "พวกเรารักคุณ!"
+          },
+          {
+            "_itemAll": 463,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "พวกเรารักคุณ!"
+          },
+          {
+            "_itemAll": 464,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "พวกเรารักคุณ!"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 53,
+        "itemID": 156,
+        "itemType": "TGT",
+        "sourceID": "12",
+        "sourceText": "5 สีธงชาติ - มีสีแดง/สีเหลือง/สีฟ้า/สีขาว/สีดำ มีสัญญลักษณ์เป็นห้าประชาติ",
+        "targets": [
+          {
+            "_itemAll": 465,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ธงชาติมี 5 สี คือ สีแดง สีเหลือง สีฟ้า สีขาว และสีดำ มีสัญลักษณ์เป็นห้าประชาติ"
+          },
+          {
+            "_itemAll": 466,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "สี 5 สีของธงชาติมีสีแดง สีเหลือง สีฟ้า สีขาว และสีดํา มีสัญลักษณ์เป็นห้าเชื้อชาติ"
+          },
+          {
+            "_itemAll": 467,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "5. สีธงชาติ - มีสีแดง/สีเหลือง/สีฟ้า/สีขาว/สีดํา มีสัญญลักษณ์เป็นห้าประชาติ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 54,
+        "itemID": 157,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "สมัยก่อนประเทศสหรัฐอเมริกาขอให้ประเทศอังกฤษกู้เงิน",
+        "targets": [
+          {
+            "_itemAll": 468,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "สมัยก่อนประเทศสหรัฐอเมริกาเคยขอให้ประเทศอังกฤษกู้เงิน"
+          },
+          {
+            "_itemAll": 469,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "สมัยก่อนประเทศสหรัฐอเมริกาขอให้ประเทศอังกฤษกู้เงิน"
+          },
+          {
+            "_itemAll": 470,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "สมัยก่อนประเทศสหรัฐอเมริกาขอให้ประเทศอังกฤษกู้เงิน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 55,
+        "itemID": 158,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "เพลงชาติของประเทศญี่ปุ่น นับได้ว่าเป็นเพลงชาติที่สั้นที่สุดในโลก",
+        "targets": [
+          {
+            "_itemAll": 471,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่น นับว่าเป็นเพลงชาติที่สั้นที่สุดในโลก"
+          },
+          {
+            "_itemAll": 472,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่นนับได้ว่าเป็นเพลงชาติที่สั้นที่สุดในโลก"
+          },
+          {
+            "_itemAll": 473,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เพลงชาติของประเทศญี่ปุ่น นับได้ว่าเป็นเพลงชาติที่สั้นที่สุดในโลก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 56,
+        "itemID": 159,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "น้องสาวถ่ายรูปไม่ขึ้นก็เลยไม่ชอบถ่ายรูป ช่วงนี้พี่ผอมลงเพราะไม่สบาย",
+        "targets": [
+          {
+            "_itemAll": 474,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "น้องสาวถ่ายรูปไม่ขึ้น เลยไม่ชอบถ่ายรูป ช่วงนี้พี่ผอมลงเพราะป่วย"
+          },
+          {
+            "_itemAll": 475,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "น้องสาวถ่ายรูปไม่ขึ้นก็เลยไม่ชอบถ่ายรูป ช่วงนี้พี่ผอมลงเพราะไม่สบาย"
+          },
+          {
+            "_itemAll": 476,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "น้องสาวถ่ายรูปไม่ขึ้นก็เลยไม่ชอบถ่ายรูป ช่วงนี้พี่ผอมลงเพราะไม่สบาย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 57,
+        "itemID": 160,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ฤดูแล้ง เริ่มจากเดือนพฤศจิกายน-เมษายน",
+        "targets": [
+          {
+            "_itemAll": 477,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฤดูแล้ง เริ่มตั้งแต่เดือนพฤศจิกายนถึงเมษายน"
+          },
+          {
+            "_itemAll": 478,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฤดูแล้งเริ่มจากเดือนพฤศจิกายน - เมษายน"
+          },
+          {
+            "_itemAll": 479,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฤดูแล้งเริ่มจากเดือนพฤศจิกายน -เมษายน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 58,
+        "itemID": 161,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "บางทีเขาไม่อยากกินกับเรา",
+        "targets": [
+          {
+            "_itemAll": 480,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "บางทีเขาไม่อยากกินกับเรา"
+          },
+          {
+            "_itemAll": 481,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "บางทีเขาไม่อยากกินกับเรา"
+          },
+          {
+            "_itemAll": 482,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "บางทีเขาไม่อยากกินกับเรา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 5,
+        "_item": 59,
+        "itemID": 162,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "ฉันคิดว่าคนไทยใจเย็นจังเลย",
+        "targets": [
+          {
+            "_itemAll": 483,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ฉันคิดว่าคนไทยใจเย็นมาก"
+          },
+          {
+            "_itemAll": 484,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ฉันคิดว่าคนไทยใจเย็นจังเลย"
+          },
+          {
+            "_itemAll": 485,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ฉันคิดว่าคนไทยใจเย็นจังเลย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 60,
+        "itemID": 163,
+        "itemType": "TGT",
+        "sourceID": "9",
+        "sourceText": "หลักการประชาธิปไตยหมายถึงประชาชนมีสิทธิขั้นพื้นฐาน",
+        "targets": [
+          {
+            "_itemAll": 486,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "หลักการประชาธิปไตยหมายถึง ประชาชนมีสิทธิขั้นพื้นฐาน"
+          },
+          {
+            "_itemAll": 487,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "หลักการประชาธิปไตย หมายถึง ประชาชนมีสิทธิขั้นพื้นฐาน"
+          },
+          {
+            "_itemAll": 488,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "หลักการประชาธิปไตยหมายถึงประชาชนมีสิทธิขั้นพื้นฐาน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 61,
+        "itemID": 164,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "อาชีพของเขาทำให้เขามีความสุขจริงๆ",
+        "targets": [
+          {
+            "_itemAll": 489,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "อาชีพของเขาทําให้เขามีความสุขจริงๆ"
+          },
+          {
+            "_itemAll": 490,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "อาชีพของเขาทําให้เขามีความสุขจริง ๆ"
+          },
+          {
+            "_itemAll": 491,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "อาชีพของเขาทำให้เขามีความสุขจริงๆ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 62,
+        "itemID": 165,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "พลาดซื้อขนม",
+        "targets": [
+          {
+            "_itemAll": 492,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "พลาดซื้อขนม"
+          },
+          {
+            "_itemAll": 493,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "พลาดซื้อขนม"
+          },
+          {
+            "_itemAll": 494,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "พลาดซื้อขนม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 63,
+        "itemID": 166,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "ผมอยากฝึกภาษาไทยโดยคุยกับคนไทย",
+        "targets": [
+          {
+            "_itemAll": 495,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมอยากฝึกภาษาไทยโดยคุยกับคนไทย"
+          },
+          {
+            "_itemAll": 496,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผมอยากฝึกภาษาไทยโดยคุยกับคนไทย"
+          },
+          {
+            "_itemAll": 497,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมอยากฝึกภาษาไทยโดยพูดคุยกับคนไทย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 64,
+        "itemID": 167,
+        "itemType": "TGT",
+        "sourceID": "19",
+        "sourceText": "เพราะว่าในบ้าน Paj มืดมาก",
+        "targets": [
+          {
+            "_itemAll": 498,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เพราะว่าในบ้าน Paj มืดมาก"
+          },
+          {
+            "_itemAll": 499,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เพราะว่าในบ้าน Paj มืดมาก"
+          },
+          {
+            "_itemAll": 500,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เพราะว่าในบ้าน Paj มืดมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 65,
+        "itemID": 168,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ในสมัยรัตนโกสินทร์พระบาทสมเด็จพระจุลจอมแกล้าเจาอยู่หัวประกาศว่าพระองค์จะการเลิกทาส",
+        "targets": [
+          {
+            "_itemAll": 501,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ในสมัยรัตนโกสินทร์พระบาทสมเด็จพระจุลจอมเกล้าอยู่หัวประกาศว่าพระองค์จะเลิกทาส"
+          },
+          {
+            "_itemAll": 502,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ในสมัยรัตนโกสินทร์พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัวประกาศว่าพระองค์จะเลิกทาส"
+          },
+          {
+            "_itemAll": 503,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ในสมัยรัตนโกสินทร์ พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 5 ทรงประกาศว่าพระองค์จะเลิกทาส"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 66,
+        "itemID": 169,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "ต้มยำที่ร้านอาหารนั้นพอได้ แต่ชอบร้านนี้มากกว่า",
+        "targets": [
+          {
+            "_itemAll": 504,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ต้มยําที่ร้านอาหารนั้นพอได้ แต่ชอบร้านนี้มากกว่า"
+          },
+          {
+            "_itemAll": 505,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ต้มยำที่ร้านอาหารนั้นพอทานได้ แต่ชอบร้านนี้มากกว่า"
+          },
+          {
+            "_itemAll": 506,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ต้มยําที่ร้านอาหารนั้นพอได้ แต่ชอบร้านนี้มากกว่า"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 67,
+        "itemID": 170,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "เขาที่ใส่แว่นตาเป็นเพื่อนของผม",
+        "targets": [
+          {
+            "_itemAll": 507,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เขาที่ใส่แว่นตาเป็นเพื่อนของผม"
+          },
+          {
+            "_itemAll": 508,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ผู้ชายที่ใส่แว่นตาคนนั้นเป็นเพื่อนของผม"
+          },
+          {
+            "_itemAll": 509,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เขาที่ใส่แว่นตาเป็นเพื่อนของผม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 68,
+        "itemID": 171,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ผมสนใจเทศกาลที่มีชื่อว่า งานเลี้ยงโต๊ะจีนลิง",
+        "targets": [
+          {
+            "_itemAll": 510,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ผมสนใจเทศกาลที่มีชื่อว่า งานเลี้ยงโต๊ะจีนลิง"
+          },
+          {
+            "_itemAll": 511,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผมสนใจเทศกาลที่มีชื่อว่า งานเลี้ยงโต๊ะจีนลิง"
+          },
+          {
+            "_itemAll": 512,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ผมสนใจเทศกาลที่มีชื่อว่า \"งานเลี้ยงโต๊ะจีนลิง\""
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 6,
+        "_item": 69,
+        "itemID": 172,
+        "itemType": "TGT",
+        "sourceID": "5",
+        "sourceText": "ในบรรดาภาษาทั้งหมดผมชอบภาษาไทยที่สุด",
+        "targets": [
+          {
+            "_itemAll": 513,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ในบรรดาภาษาทั้งหมด ผมชอบภาษาไทยที่สุด"
+          },
+          {
+            "_itemAll": 514,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ในบรรดาภาษาทั้งหมด ผมชอบภาษาไทยมากที่สุด"
+          },
+          {
+            "_itemAll": 515,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ในบรรดาภาษาทั้งหมด ผมชอบภาษาไทยที่สุด"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 70,
+        "itemID": 173,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ตั้งแต่เด็กฉันชอบอ่านหนังสือ",
+        "targets": [
+          {
+            "_itemAll": 516,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ตั้งแต่เด็กฉันชอบอ่านหนังสือ"
+          },
+          {
+            "_itemAll": 517,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ตั้งแต่เด็กฉันชอบอ่านหนังสือ"
+          },
+          {
+            "_itemAll": 518,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ตั้งแต่เด็กฉันชอบอ่านหนังสือ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 71,
+        "itemID": 174,
+        "itemType": "TGT",
+        "sourceID": "14",
+        "sourceText": "ภ้าผมมีเวลาว่าง ผมชอบอ่านหนังสือไปด้วย กินกาแฟไปด้วย",
+        "targets": [
+          {
+            "_itemAll": 519,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เมื่อผมมีเวลาว่าง ผมชอบอ่านหนังสือไปด้วย ดื่มกาแฟไปด้วย"
+          },
+          {
+            "_itemAll": 520,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เวลาที่ผมมีเวลาว่าง ผมชอบอ่านหนังสือไปด้วย กินกาแฟไปด้วย"
+          },
+          {
+            "_itemAll": 521,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ช่วงนี้ผมมีเวลาว่าง ผมชอบอ่านหนังสือไปด้วย กินกาแฟไปด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 72,
+        "itemID": 175,
+        "itemType": "TGT",
+        "sourceID": "13",
+        "sourceText": "พอหายคันแล้ว ยุงตัวอื่นก็กัดอีก ตุ่มเล็กๆก็ขึ้น ทำให้คันและเกาอีกหลายรอบ",
+        "targets": [
+          {
+            "_itemAll": 522,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "พอหายคันแล้ว ยุงตัวอื่นก็กัดอีก ตุ่มเล็ก ๆ ก็ขึ้น ทําให้คันและเกาอีกหลายรอบ"
+          },
+          {
+            "_itemAll": 523,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "พอหายคันแล้ว ยุงตัวอื่นก็กัดอีก ตุ่มเล็ก ๆ ก็ขึ้น ทําให้คันและเกาอีกหลายรอบ"
+          },
+          {
+            "_itemAll": 524,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "พอหายคัน ยุงตัวอื่นก็มากัดอีก ตุ่มเล็กๆ ขึ้น ทำให้คันและเกาอีกหลายรอบ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 73,
+        "itemID": 176,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ในประเทศเม็กซิโกจัดขึ้นในวันที่ 1 และ วันที่ 2 พฤศจิกายน",
+        "targets": [
+          {
+            "_itemAll": 525,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ในประเทศเม็กซิโก จัดขึ้นในวันที่ 1 และ 2 พฤศจิกายน"
+          },
+          {
+            "_itemAll": 526,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ในประเทศเม็กซิโกจัดขึ้นในวันที่ 1 และวันที่ 2 พฤศจิกายน"
+          },
+          {
+            "_itemAll": 527,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ในประเทศเม็กซิโกจัดขึ้นในวันที่ 1 และวันที่ 2 พฤศจิกายน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 74,
+        "itemID": 177,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "ซึ่งจะมีเวลชำรหนี้๑๐ปี",
+        "targets": [
+          {
+            "_itemAll": 528,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ซึ่งจะมีเวลาชำระหนี้ 10 ปี"
+          },
+          {
+            "_itemAll": 529,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ซึ่งจะมีเวลชํารหนี้ ๑๐ ปี"
+          },
+          {
+            "_itemAll": 530,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ซึ่งจะมีอายุขัย ๑๐ ปี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 75,
+        "itemID": 178,
+        "itemType": "TGT",
+        "sourceID": "12",
+        "sourceText": "ปกติการย่อยสลายของพลาสติกจะใช้เวลา 100 ถึง 1,000 ปี สแดงว่าเรื่องที่เกี่ยวกับชีวิตเราและลูกหลานด้วย",
+        "targets": [
+          {
+            "_itemAll": 531,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "ปกติการย่อยสลายของพลาสติกจะใช้เวลา 100 ถึง 1,000 ปี สแดงว่าเรื่องที่เกี่ยวกับชีวิตเราและลูกหลานด้วย"
+          },
+          {
+            "_itemAll": 532,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "การย่อยสลายของพลาสติกใช้เวลา 100 ถึง 1,000 ปี ซึ่งแสดงว่าเป็นเรื่องเกี่ยวกับชีวิตเราและลูกหลานด้วย"
+          },
+          {
+            "_itemAll": 533,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ปกติการย่อยสลายของพลาสติกจะใช้เวลา 100 ถึง 1,000 ปี ซึ่งแสดงว่าเรื่องนี้เกี่ยวข้องกับชีวิตของเราและลูกหลานด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 76,
+        "itemID": 179,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "การสูบบุหรี่ต่อสุขภาพไม่ดี",
+        "targets": [
+          {
+            "_itemAll": 534,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "การสูบบุหรี่ต่อสุขภาพไม่ดี"
+          },
+          {
+            "_itemAll": 535,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "การสูบบุหรี่ส่งผลเสียต่อสุขภาพ"
+          },
+          {
+            "_itemAll": 536,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "การสูบบุหรี่ต่อสุขภาพไม่ดี"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 77,
+        "itemID": 180,
+        "itemType": "TGT",
+        "sourceID": "27",
+        "sourceText": "ขอบคุณครับ สวัสดีครับ",
+        "targets": [
+          {
+            "_itemAll": 537,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ขอบคุณครับ สวัสดีครับ"
+          },
+          {
+            "_itemAll": 538,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "สวัสดีครับ สวัสดีครับ"
+          },
+          {
+            "_itemAll": 539,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ขอบคุณครับ สวัสดีครับ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 78,
+        "itemID": 181,
+        "itemType": "TGT",
+        "sourceID": "3",
+        "sourceText": "นอกจากนี้รายได้ของรัฐบาลส่วนใหญ่มาจากการขายที่ดินและภาษีจากที่ดิน จึงจะรัฐบาลไม่อยากเสียที่ดินช่วยเหลือสร้างอาคารสงเคราะห์ให้ชาวฮ่องกง",
+        "targets": [
+          {
+            "_itemAll": 540,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "นอกจากนี้ รายได้ของรัฐบาลส่วนใหญ่มาจากการขายที่ดินและภาษีจากที่ดิน จึงจะรัฐบาลไม่อยากเสียที่ดินเพื่อช่วยเหลือสร้างอาคารสงเคราะห์ให้ชาวฮ่องกง"
+          },
+          {
+            "_itemAll": 541,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "นอกจากนี้ รายได้ของรัฐบาลส่วนใหญ่มาจากการขายที่ดินและภาษีจากที่ดิน ดังนั้น รัฐบาลจึงไม่อยากเสียที่ดินเพื่อช่วยเหลือสร้างอาคารสงเคราะห์ให้ชาวฮ่องกง"
+          },
+          {
+            "_itemAll": 542,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "นอกจากนี้ รายได้ของรัฐบาลส่วนใหญ่มาจากการขายที่ดินและภาษีจากที่ดิน จึงไม่อยากเสียที่ดินเพื่อช่วยเหลือสร้างอาคารสงเคราะห์ให้ชาวฮ่องกง"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 7,
+        "_item": 79,
+        "itemID": 182,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "เพลงชาติไต้หวันที่ใช้กันอยู่ในทุกวันนี้ จริงๆแล้วเป็นคำสอน คำสั่งของบิดาประเทศ Sun,Yat-Sen",
+        "targets": [
+          {
+            "_itemAll": 543,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เพลงชาติไต้หวันที่ใช้กันอยู่ในทุกวันนี้ จริงๆแล้วเป็นคำสอนและคำสั่งของบิดาประเทศ Sun Yat-Sen"
+          },
+          {
+            "_itemAll": 544,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "เพลงชาติไต้หวันที่ใช้กันอยู่ในทุกวันนี้ จริง ๆ แล้วเป็นคําสอนของบิดาของประเทศ Sun, Yat-Sen"
+          },
+          {
+            "_itemAll": 545,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "เพลงชาติไต้หวันที่ใช้กันอยู่ในทุกวันนี้ จริง ๆ แล้วเป็นคําสอน คําสั่งของบิดาประเทศ Sun, Yat-Sen"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 80,
+        "itemID": 183,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "และหาม วิ่งผ่านฝ่าเข้ามา",
+        "targets": [
+          {
+            "_itemAll": 546,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "และหามวิ่งผ่านฝ่าเข้ามา"
+          },
+          {
+            "_itemAll": 547,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "และหามวิ่งผ่านฝ่าเข้ามา"
+          },
+          {
+            "_itemAll": 548,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "และหมา วิ่งผ่านฝ่าเข้ามา"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 81,
+        "itemID": 184,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "ผมกินเผ็ดพอได้",
+        "targets": [
+          {
+            "_itemAll": 549,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ผมทานเผ็ดได้พอสมควร"
+          },
+          {
+            "_itemAll": 550,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ผมกินเผ็ดพอได้"
+          },
+          {
+            "_itemAll": 551,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ผมกินเผ็ดพอได้"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 82,
+        "itemID": 185,
+        "itemType": "TGT",
+        "sourceID": "14",
+        "sourceText": "วันนี้ผมอยากให้ทุกคนรู้จริงๆ เราเหมือนกัน",
+        "targets": [
+          {
+            "_itemAll": 552,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "วันนี้ผมอยากให้ทุกคนรู้จริงๆ ว่าเราเหมือนกัน"
+          },
+          {
+            "_itemAll": 553,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้ ผมอยากให้ทุกคนรู้จริง ๆ เราเหมือนกัน"
+          },
+          {
+            "_itemAll": 554,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้ผมอยากให้ทุกคนรู้จริง ๆ เราเหมือนกัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 83,
+        "itemID": 186,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "วิตามินเอ วิตามินซี วิตามินเค.",
+        "targets": [
+          {
+            "_itemAll": 555,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วิตามินเอ วิตามินซี และวิตามินเค"
+          },
+          {
+            "_itemAll": 556,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วิตามินเอ วิตามินซี และวิตามินเค"
+          },
+          {
+            "_itemAll": 557,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วิตามินเอ วิตามินซี วิตามินเค"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 84,
+        "itemID": 187,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ผมเริ่มเล่นกอล์ฟตั้งแต่อายุ๒๕ ปี ผมเคยไปที่เมืองซิดนีย์",
+        "targets": [
+          {
+            "_itemAll": 558,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ผมเริ่มเล่นกอล์ฟตั้งแต่อายุ 25 ปี ผมเคยไปที่เมืองซิดนีย์"
+          },
+          {
+            "_itemAll": 559,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ผมเริ่มเล่นกอล์ฟตั้งแต่อายุ ๒๕ ปี ผมเคยไปที่เมืองซิดนีย์"
+          },
+          {
+            "_itemAll": 560,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "ผมเริ่มเล่นกอล์ฟตั้งแต่อายุ ๒๕ ปี ผมเคยไปที่เมืองซิดนีย์"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 85,
+        "itemID": 188,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "ซึ่งใช้เวลานานมาก",
+        "targets": [
+          {
+            "_itemAll": 561,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ซึ่งใช้เวลานานมาก"
+          },
+          {
+            "_itemAll": 562,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ซึ่งใช้เวลานานมาก"
+          },
+          {
+            "_itemAll": 563,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ซึ่งใช้เวลานานมาก"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 86,
+        "itemID": 189,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "วันนี้ดิฉันพูดสุนทรพจน์เกี่ยวกับ \" ความประทับใจในจุฬาลงกรณ์มหาวิทยาลัยค่ะ \" ดิฉันย้ายมาอยู่กรุงเทพตั้งแต่เดือนมีนาคมปีที่แล้ว",
+        "targets": [
+          {
+            "_itemAll": 564,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้ดิฉันพูดสุนทรพจน์เกี่ยวกับ \"ความประทับใจในจุฬาลงกรณ์มหาวิทยาลัยค่ะ\" ดิฉันย้ายมาอยู่กรุงเทพฯ ตั้งแต่เดือนมีนาคมปีที่แล้ว"
+          },
+          {
+            "_itemAll": 565,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วันนี้ดิฉันพูดสุนทรพจน์เกี่ยวกับ \"ความประทับใจในจุฬาลงกรณ์มหาวิทยาลัย\" ดิฉันย้ายมาอยู่กรุงเทพตั้งแต่เดือนมีนาคมปีที่แล้ว"
+          },
+          {
+            "_itemAll": 566,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้ดิฉันพูดสุนทรพจน์เกี่ยวกับ \"ความประทับใจในจุฬาลงกรณ์มหาวิทยาลัยค่ะ\" ดิฉันย้ายมาอยู่กรุงเทพฯ ตั้งแต่เดือนมีนาคมปีที่แล้ว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 87,
+        "itemID": 190,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "การบรรยายลักษณะสถานที่",
+        "targets": [
+          {
+            "_itemAll": 567,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "การบรรยายลักษณะสถานที่"
+          },
+          {
+            "_itemAll": 568,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "บรรยายลักษณะสถานที่"
+          },
+          {
+            "_itemAll": 569,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "การบรรยายลักษณะสถานที่"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 88,
+        "itemID": 191,
+        "itemType": "TGT",
+        "sourceID": "6",
+        "sourceText": "นักเรียนอ่านหนังสือจนถึงตีสาม",
+        "targets": [
+          {
+            "_itemAll": 570,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "นักเรียนอ่านหนังสือจนถึงตีสาม"
+          },
+          {
+            "_itemAll": 571,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "นักเรียนอ่านหนังสือจนถึงตีสาม"
+          },
+          {
+            "_itemAll": 572,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "นักเรียนอ่านหนังสือจนถึงตีสาม"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 8,
+        "_item": 89,
+        "itemID": 192,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "วิธีทำลูกข้าว มีดังนี้ 1 หุงข้าว 2 ใสกับข้าว เช่น บ๊วย แซลมอน เป็นต้น 3 ม้วนสาหร่ายกับข้าว",
+        "targets": [
+          {
+            "_itemAll": 573,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วิธีทําลูกข้าว มีดังนี้ 1 หุงข้าว 2 ใสกับข้าว เช่น บ๊วย แซลมอน เป็นต้น 3 ม้วนสาหร่ายกับข้าว"
+          },
+          {
+            "_itemAll": 574,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "วิธีทำลูกข้าว 1. หุงข้าว 2. ใส่วัตถุดิบ เช่น บ๊วย แซลมอน 3. ม้วนสาหร่ายกับข้าว"
+          },
+          {
+            "_itemAll": 575,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "วิธีทําลูกข้าว มีดังนี้ 1 หุงข้าว 2 ใสกับข้าว เช่น บ๊วย แซลมอน เป็นต้น 3 ม้วนสาหร่ายกับข้าว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 90,
+        "itemID": 193,
+        "itemType": "TGT",
+        "sourceID": "8",
+        "sourceText": "ฉันก็เลยคิดว่านักการเมืองต้องไม่คดโกงกับประชาชน",
+        "targets": [
+          {
+            "_itemAll": 576,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ฉันก็เลยคิดว่านักการเมืองต้องไม่คดโกงประชาชน"
+          },
+          {
+            "_itemAll": 577,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ฉันก็เลยคิดว่า นักการเมืองต้องไม่คดโกงประชาชน"
+          },
+          {
+            "_itemAll": 578,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ฉันคิดว่านักการเมืองต้องไม่คดโกงกับประชาชน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 91,
+        "itemID": 194,
+        "itemType": "TGT",
+        "sourceID": "4",
+        "sourceText": "เราต้องหาวิธีฝ่าฟันวิกฤตเศรษฐกิจ อาสาสมัครช่วยเด็กอ่านหนังสือในสถานเลี้ยงเด็กกำพร้า เงินเยนมีแนวโน้มลดลง ยาเสพติดระบาดปีต่อปีในโลก ที่ประเทศญี่ปุ่นไข้วัดใหญ่ระบาดในฤดูหนาว",
+        "targets": [
+          {
+            "_itemAll": 579,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "เราต้องหาวิธีฝ่าฟันวิกฤตเศรษฐกิจ อาสาสมัครช่วยเด็กอ่านหนังสือในสถานเลี้ยงเด็กกําพร้า เงินเยนมีแนวโน้มลดลง ยาเสพติดระบาดปีต่อปีในโลก ที่ประเทศญี่ปุ่นไข้วัดใหญ่ระบาดในฤดูหนาว"
+          },
+          {
+            "_itemAll": 580,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "เราต้องหาวิธีฝ่าฟันวิกฤตเศรษฐกิจ อาสาสมัครช่วยเด็กอ่านหนังสือในสถานเลี้ยงเด็กกำพร้า เงินเยนมีแนวโน้มลดลง ยาเสพติดระบาดปีต่อปีในโลก ที่ประเทศญี่ปุ่น ไข้หวัดใหญ่ระบาดในฤดูหนาว"
+          },
+          {
+            "_itemAll": 581,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เราต้องหาวิธีฝ่าฟันวิกฤตเศรษฐกิจ อาสาสมัครช่วยเด็กอ่านหนังสือในสถานเลี้ยงเด็กกําพร้า เงินเยนมีแนวโน้มลดลง ยาเสพติดระบาดในปีต่อปีในโลก ที่ประเทศญี่ปุ่นไข้วัดใหญ่ระบาดในฤดูหนาว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 92,
+        "itemID": 195,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "บางคนรอคิว",
+        "targets": [
+          {
+            "_itemAll": 582,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "บางคนรอคิว"
+          },
+          {
+            "_itemAll": 583,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "บางคนรอคิว"
+          },
+          {
+            "_itemAll": 584,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "บางคนรอคิว"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 93,
+        "itemID": 196,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "คิดว่าคุณเอกับคุณบีมีอะไรกัน",
+        "targets": [
+          {
+            "_itemAll": 585,
+            "_target": 0,
+            "targetID": "mt5-base",
+            "targetText": "คิดว่าคุณเอกับคุณบีมีอะไรกัน"
+          },
+          {
+            "_itemAll": 586,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "คิดว่าคุณเอกับคุณบีมีอะไรกัน"
+          },
+          {
+            "_itemAll": 587,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "คิดว่าคุณเอกับคุณบีมีความสัมพันธ์กันอย่างไร"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 94,
+        "itemID": 197,
+        "itemType": "TGT",
+        "sourceID": "0",
+        "sourceText": "ถนนสุขุมวิทรถติดมากดังนั้นผมจึงไปทำงานไม่ทัน เดือนหน้าเราจะไปหัวหิน",
+        "targets": [
+          {
+            "_itemAll": 588,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ถนนสุขุมวิทรถติดมาก ทําให้ผมไปทํางานไม่ทัน เดือนหน้าเราจะไปหัวหิน"
+          },
+          {
+            "_itemAll": 589,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "ถนนสุขุมวิทรถติดมาก ดังนั้นผมจึงไปทํางานไม่ทัน เดือนหน้าเราจะไปหัวหิน"
+          },
+          {
+            "_itemAll": 590,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "ถนนสุขุมวิทรถติดมาก ทำให้ผมไปทำงานไม่ทัน เดือนหน้าเราจะไปหัวหิน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 95,
+        "itemID": 198,
+        "itemType": "TGT",
+        "sourceID": "10",
+        "sourceText": "ส่วนน้ำมันขาวก็เป็นอีกผลิตภัณฑ์หนึ่ง ของบริษัท\"White Flower International Company\" มีวิธีใช้และผลประโยชน์ที่ คล้ายกัน",
+        "targets": [
+          {
+            "_itemAll": 591,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ส่วนน้ํามันขาวก็เป็นอีกผลิตภัณฑ์หนึ่งของบริษัท \"White Flower International Company\" มีวิธีใช้และผลลัพธ์ที่คล้ายกัน"
+          },
+          {
+            "_itemAll": 592,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ส่วนน้ำมันขาวก็เป็นอีกผลิตภัณฑ์หนึ่งของบริษัท \"White Flower International Company\" มีวิธีใช้และผลประโยชน์ที่คล้ายคลึงกัน"
+          },
+          {
+            "_itemAll": 593,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ส่วนน้ํามันขาวก็เป็นอีกผลิตภัณฑ์หนึ่งของบริษัท \"White Flower International Company\" มีวิธีใช้และผลประโยชน์ที่คล้ายกัน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 96,
+        "itemID": 199,
+        "itemType": "TGT",
+        "sourceID": "17",
+        "sourceText": "ทุกที่ดอกไม้บาน ปลายเดือน พฤษภาคม ถึงกลางกันยายนเป็ฯฤดูร้อน",
+        "targets": [
+          {
+            "_itemAll": 594,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "ทุกที่ดอกไม้บานปลายเดือนพฤษภาคมถึงกลางกันยายนเป็นฤดูร้อน"
+          },
+          {
+            "_itemAll": 595,
+            "_target": 1,
+            "targetID": "gemini",
+            "targetText": "ทุกที่ดอกไม้บาน ปลายเดือนพฤษภาคมถึงกลางกันยายนเป็นฤดูร้อน"
+          },
+          {
+            "_itemAll": 596,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ทุกที่ดอกไม้บานปลายเดือนพฤษภาคม ถึงกลางกันยายนเป็นฤดูร้อน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 97,
+        "itemID": 200,
+        "itemType": "TGT",
+        "sourceID": "15",
+        "sourceText": "ยังมีสรรพคุณเป็นยาซึ้นดีต่อสุขภาพอีกด้วย",
+        "targets": [
+          {
+            "_itemAll": 597,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "ยังมีสรรพคุณเป็นยา ซึ่งดีต่อสุขภาพอีกด้วย"
+          },
+          {
+            "_itemAll": 598,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "ยังมีสรรพคุณเป็นยาซึ้นดีต่อสุขภาพอีกด้วย"
+          },
+          {
+            "_itemAll": 599,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "ยังมีสรรพคุณเป็นยาซึ้นดีต่อสุขภาพอีกด้วย"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 98,
+        "itemID": 201,
+        "itemType": "TGT",
+        "sourceID": "7",
+        "sourceText": "วันนี้เขาอาจจะช่วยเรามา แต่ยงไม่แน่ใจ",
+        "targets": [
+          {
+            "_itemAll": 600,
+            "_target": 0,
+            "targetID": "mt5-large",
+            "targetText": "วันนี้เขาอาจจะมาช่วยเรา แต่ยังไม่แน่ใจ"
+          },
+          {
+            "_itemAll": 601,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "วันนี้เขาอาจจะช่วยเรามา แต่ยงไม่แน่ใจ"
+          },
+          {
+            "_itemAll": 602,
+            "_target": 2,
+            "targetID": "gemini",
+            "targetText": "วันนี้เขาอาจจะมาช่วยเรา แต่ยังไม่แน่ใจ"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 9,
+        "_item": 99,
+        "itemID": 202,
+        "itemType": "TGT",
+        "sourceID": "1",
+        "sourceText": "เพิ่งเข้าใจตลกที่บอกห้านาทีก่อน",
+        "targets": [
+          {
+            "_itemAll": 603,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "เพิ่งเข้าใจมุขตลกที่บอกไว้เมื่อห้านาทีก่อน"
+          },
+          {
+            "_itemAll": 604,
+            "_target": 1,
+            "targetID": "mt5-large",
+            "targetText": "เพิ่งเข้าใจตลกที่บอกห้านาทีก่อน"
+          },
+          {
+            "_itemAll": 605,
+            "_target": 2,
+            "targetID": "mt5-base",
+            "targetText": "เพิ่งเข้าใจตลกที่บอกห้านาทีก่อน"
+          }
+        ],
+        "targetsSize": 3
+      },
+      {
+        "_block": 10,
+        "_item": 100,
+        "itemID": 203,
+        "itemType": "TGT",
+        "sourceID": "2",
+        "sourceText": "รัฐบาลจะช่วยประชาชนซื่อบ้างง่าย",
+        "targets": [
+          {
+            "_itemAll": 606,
+            "_target": 0,
+            "targetID": "gemini",
+            "targetText": "รัฐบาลจะช่วยเหลือประชาชนบ้างก็ดี"
+          },
+          {
+            "_itemAll": 607,
+            "_target": 1,
+            "targetID": "mt5-base",
+            "targetText": "รัฐบาลจะช่วยประชาชนซื่อบ้างง่าย"
+          },
+          {
+            "_itemAll": 608,
+            "_target": 2,
+            "targetID": "mt5-large",
+            "targetText": "รัฐบาลจะช่วยประชาชนซื่อบ้างง่าย"
+          }
+        ],
+        "targetsSize": 3
+      }
+    ],
+    "task": {
+      "batchNo": 2,
+      "batchSize": 101,
+      "requiredAnnotations": 2,
+      "sourceLanguage": "tha",
+      "targetLanguage": "tha"
+    }
+  }
+]

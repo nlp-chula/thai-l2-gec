@@ -1,0 +1,13 @@
+# Secrets: never commit API keys
+keys.txt
+.env
+
+# Environments, caches, and run artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*_env/
+venv/
+last_run_prepared/
+*.log
+.DS_Store

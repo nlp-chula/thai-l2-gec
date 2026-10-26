@@ -1,0 +1,16 @@
+Data license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+The following are licensed under CC BY-NC-SA 4.0:
+  - data/                (CTFL-GEC corpus and the Self-Instruct synthetic pairs)
+  - evaluation/predictions/ and evaluation/results/
+  - human_eval/
+
+You may share and adapt this material for non-commercial purposes, provided you
+give appropriate credit and distribute your contributions under the same license.
+
+Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The learner texts come from the CTFL Corpus (Center for Thai as a Foreign
+Language, Faculty of Arts, Chulalongkorn University), collected with informed
+consent and anonymized. Source code in this repository is licensed separately
+under the MIT License (see LICENSE).

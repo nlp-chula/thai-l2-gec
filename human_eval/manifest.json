@@ -1,0 +1,17 @@
+{
+  "SOURCE_LANGUAGE": "eng",
+  "TARGET_LANGUAGE": "tha",
+  "CAMPAIGN_URL": "http://127.0.0.1:8000/threeway-assessment/geceval/",
+  "CAMPAIGN_NAME": "geceval",
+  "CAMPAIGN_KEY": "geceval",
+  "CAMPAIGN_NO": 1,
+  "REDUNDANCY": 2,
+  "TASKS_TO_ANNOTATORS": [],
+  "TASKS_PER_ANNOTATOR": 1,
+  "USERS": [
+    "thatha0101",
+    "thatha0102",
+    "thatha0103",
+    "thatha0104"
+  ]
+}

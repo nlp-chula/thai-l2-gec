@@ -1,0 +1,6 @@
+Model,Fluency_Recall,Grammar_Recall,Punctuation_Recall,Spelling_Recall
+mT5-large-FT,0.0167,0.0263,0.2573,0.0566
+mT5-large-SI,0.0917,0.1842,0.3099,0.1321
+Gemini-1.0-Pro,0.125,0.1053,0.2339,0.2453
+OpenThaiGPT-13B,0.0417,0.1053,0.0936,0.0
+OpenThaiGPT-13B-SI,0.0167,0.0,0.0234,0.0
