@@ -40,6 +40,7 @@ Learner writing comes from the CTFL Corpus: compositions by students in Intensiv
 | `data/ctfl-gec-untagged/ctfl_cleaned_test.csv` | 177 | 53 sentences need no correction |
 
 The cleaned splits keep only sentences of 3–50 words (4,047 in total).
+*Note: The test split contains 203 sentences in the original work . This version excluded the 26 test sentences during our data contamination process.
 
 **Columns:** `writing_id`, `sentence_id`, `text` (learner input), `expected` (correction), `annotation` (inline edits as `{error=>correction:::Type}`), `tokenize` (PyThaiNLP tokens), `word_length`, `no_edit`.
 
